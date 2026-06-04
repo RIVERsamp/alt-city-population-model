@@ -281,7 +281,12 @@ const cities = [
    region: Southeast,
    alt_population: 1008000
   },
-  {
-  
+   {
+   rank: 41,
+   city: Oklahoma City,
+   state: Oklahoma",
+   region: Southwest,
+   alt_population: 1002000
+   
 ];
 
