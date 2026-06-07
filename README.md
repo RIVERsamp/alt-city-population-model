@@ -284,9 +284,73 @@ const cities = [
    {
    rank: 41,
    city: Oklahoma City,
-   state: Oklahoma",
+   state: Oklahoma,
    region: Southwest,
    alt_population: 1002000
+   },
+   {
+   rank 42,
+   city: Honolulu,
+   state: Hawaii,
+   region: West,
+   alt_population: 966000
+   },
+   {
+   rank 43,
+   city: Des Moines,
+   state: Iowa,
+   region: Midwest,
+   alt_population: 965,000
+   },
+   {
+   rank 44,
+   city: Long Beach,
+   state: California,
+   region: West,
+   alt_population: 960000
+   },
+   {
+   rank 45,
+   city: Cincinnati,
+   state: Ohio,
+   region: Midwest,
+   alt_population: 952000
+   },
+   {
+   rank 46,
+   city: El Paso,
+   state: Texas,
+   region: Southwest,
+   alt_population: 910000
+   },
+   {
+   rank 47,
+   city: Tulsa,
+   state: Oklahoma,
+   region: Southwest,
+   alt_population: 905000
+   },
+   {
+   rank 48,
+   city: Oakland,
+   state: California,
+   region: West,
+   alt_population: 902000
+   },
+   {
+   rank 49,
+   city: Wichita,
+   state: Kansas,
+   region: Midwest,
+   alt_population: 851000
+   },
+   {
+   rank 50,
+   city: Albuquerque,
+   state: New Mexico,
+   region: Southwest,
+   alt_population: 850000
+   },
    
 ];
 
