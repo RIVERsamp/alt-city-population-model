@@ -6,7 +6,9 @@ const cities = [
    city: New York City,
    state: New York,
    region: Northeast,
-   alt_population: 17640000
+   alt_population: 17650000
+   current_population: 8580000
+   peak_population: 9520000
   },
    {
    rank: 2,
@@ -14,13 +16,17 @@ const cities = [
    state: Illinois,
    region: Midwest,
    alt_population: 7315000 
+   current_population: 2730000
+   peak_population: 3626000
   },
    {
    rank: 3,
    city: Los Angeles,
    state: California,
    region: West,
-   alt_population: 5432000  
+   alt_population: 5432000 
+   current_population: 3871000
+   peak_population: 3920000
   },
    {
    rank: 4,
@@ -28,6 +34,8 @@ const cities = [
    state: Michigan,
    region: Midwest,
    alt_population: 4025000 
+   current_population: 651000
+   peak_population: 1855000
   },
    {
    rank: 5,
@@ -35,6 +43,8 @@ const cities = [
    state: Pennsylvania,
    region: Northeast,
    alt_population: 3451000
+   current_population: 1575000
+   peak_population: 2072000
   },
    {
    rank: 6,
@@ -350,6 +360,356 @@ const cities = [
    state: New Mexico,
    region: Southwest,
    alt_population: 850000
+   },
+   {
+   rank 51,
+   city: New Haven, 
+   state: Connecticut,
+   region: Northeast,
+   alt_population: 822000
+   },
+   {
+   rank 52,
+   city: Birmingham,
+   state: Alabama,
+   region: Southeast,
+   alt_population: 815000
+   },
+   {
+   rank 53,
+   city: Fresno,
+   state: California,
+   region: West,
+   alt_population: 814000
+   },
+   {
+   rank 54,
+   city: Rochester,
+   state: New York,
+   region: Northeast,
+   alt_population: 809000
+   },
+   {
+   rank 55,
+   city: Omaha,
+   state: Nebraska,
+   region: Midwest,
+   alt_population: 805000
+   },
+   {
+   rank 56,
+   city: Jersey City,
+   state: New Jersey,
+   region: Northeast,
+   alt_population: 791000
+   },
+   {
+   rank 57,
+   city: Sacramento,
+   state: California,
+   region: West,
+   alt_population: 786000
+   },
+   {
+   rank 58,
+   city: Raleigh,
+   state: North Carolina,
+   region: Southeast,
+   alt_population: 770000
+   },
+   {
+   rank 59,
+   city: Tucson,
+   state: Arizona,
+   region: Southwest,
+   alt_population: 769000
+   },
+   {
+   rank 60,
+   city: Toledo,
+   state: Ohio,
+   region: Midwest,
+   alt_population: 765000
+   },
+   {
+   rank 61,
+   city: Providence,
+   state: Rhode Island,
+   region: Northeast,
+   alt_population: 756000
+   },
+   {
+   rank 62,
+   city: Virginia Beach,
+   state: Virginia,
+   region: Southeast,
+   alt_population: 745000
+   },
+   {
+   rank 63,
+   city: Norfolk,
+   state: Virginia,
+   region: Southeast,
+   alt_population: 728000
+   },
+   {
+   rank 64,
+   city: Colorado Springs,
+   state: Colorado,
+   region: West,
+   alt_population: 714000
+   },
+   {
+   rank 65,
+   city: St. Paul,
+   state: Minnesota,
+   region: Midwest,
+   alt_population: 702000
+   },
+   {
+   rank 66,
+   city: Hartford,
+   state: Connecticut,
+   region: Northeast,
+   alt_population: 672000
+   },
+   {
+   rank 67,
+   city: Anchorage,
+   state: Alaska,
+   region: West,
+   alt_population: 665000
+   },
+   {
+   rank 68,
+   city: Santa Ana,
+   state: California,
+   region: West,
+   alt_population: 655000
+   },
+   {
+   rank 69,
+   city: Syracuse,
+   state: New York,
+   region: Northeast,
+   alt_population: 651000
+   },
+   {
+   rank 70,
+   city: Little Rock,
+   state: Arkansas,
+   region: Southeast,
+   alt_population: 640000
+   },
+   {
+   rank 71,
+   city: Boise,
+   state: Idaho,
+   region: West,
+   alt_population: 637000
+   },
+   {
+   rank 72,
+   city: Portland,
+   state: Maine,
+   region: Northeast,
+   alt_population: 632000
+   },
+   {
+   rank 73,
+   city: Anaheim,
+   state: California,
+   region: West,
+   alt_population: 630000
+   },
+   {
+   rank 74,
+   city: Akron,
+   state: Ohio,
+   region: Midwest,
+   alt_population: 624000
+   },
+   {
+   rank 75,
+   city: Arlington,
+   state: Texas,
+   region: Southwest,
+   alt_population: 624000
+   },
+   {
+   rank 76,
+   city: Dayton,
+   state: Ohio,
+   region: Midwest,
+   alt_population: 621000
+   },
+   {
+   rank 77,
+   city: Charleston,
+   state: South Carolina,
+   region: Southeast,
+   alt_population: 608000
+   },
+   {
+   rank 78,
+   city: Salt Lake City,
+   state: Utah,
+   region: West,
+   alt_population: 605000
+   },
+   {
+   rank 79,
+   city: Jackson,
+   state: Mississippi,
+   region: Southeast,
+   alt_population: 591000
+   },
+   {
+   rank 80,
+   city: Aurora,
+   state: Colorado,
+   region: West,
+   alt_population: 588000
+   },
+   {
+   rank 81,
+   city: Worcester,
+   state: Massachusetts,
+   region: Northeast,
+   alt_population: 585000
+   },
+   {
+   rank 82,
+   city: Madison,
+   state: Wisconsin,
+   region: Midwest,
+   alt_population: 575000
+   },
+   {
+   rank 83,
+   city: Richmond,
+   state: Virginia,
+   region: Southeast,
+   alt_population: 571000
+   },
+   {
+   rank 84,
+   city: Grand Rapids,
+   state: Michigan,
+   region: Midwest,
+   alt_population: 568000
+   },
+   {
+   rank 85,
+   city: Charleston,
+   state: West Virginia,
+   region: Southeast,
+   alt_population: 567000
+   },
+   {
+   rank 86,
+   city: Mesa,
+   state: Arizona,
+   region: Southwest,
+   alt_population: 565000
+   },
+   {
+   rank 87,
+   city: Sioux Falls,
+   state: South Dakota,
+   region: Midwest,
+   alt_population: 553000
+   },
+   {
+   rank 88,
+   city: Orlando,
+   state: Florida,
+   region: Southeast,
+   alt_population: 551000
+   },
+   {
+   rank 89,
+   city: Spokane,
+   state: Washington,
+   region: West,
+   alt_population: 545000
+   },
+   {
+   rank 90,
+   city: Riverside,
+   state: California,
+   region: West,
+   alt_population: 541000
+   },
+   {
+   rank 91,
+   city: Billings,
+   state: Montana,
+   region: West,
+   alt_population: 540000
+   },
+   {
+   rank 92,
+   city: Bakersfield,
+   state: California,
+   region: West,
+   alt_population: 532000
+   },
+   {
+   rank 93,
+   city: Mobile,
+   state: Alabama,
+   region: Southeast,
+   alt_population: 532000
+   },
+   {
+   rank 94,
+   city: Lexington,
+   state: Kentucky,
+   region: Southeast,
+   alt_population: 532000
+   },
+   {
+   rank 95,
+   city: Corpus Christi,
+   state: Texas,
+   region: Southwest,
+   alt_population: 530000
+   },
+   {
+   rank 96,
+   city: Flint,
+   state: Michigan,
+   region: Midwest,
+   alt_population: 525000
+   },
+   {
+   rank 97,
+   city: Reno,
+   state: Nevada,
+   region: West,
+   alt_population: 520000
+   },
+   {
+   rank 98,
+   city: Stockton,
+   state: California,
+   region: West,
+   alt_population: 512000
+   },
+   {
+   rank 99,
+   city: Savannah,
+   state: Georgia,
+   region: Southeast,
+   alt_population: 504000
+   },
+   {
+   rank 100,
+   city: Henderson,
+   state: Nevada,
+   region: West,
+   alt_population: 501000
    },
    
 ];
