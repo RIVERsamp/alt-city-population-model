@@ -43,7 +43,7 @@ const cities = [
    state: Pennsylvania,
    region: Northeast,
    alt_population: 3451000
-   current_population: 1575000
+   current_population: 1574000
    peak_population: 2072000
   },
    {
