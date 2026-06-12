@@ -1,4 +1,5 @@
 # alt-city-population-mod
+# Some of the current populations or peak populations may appear to be inaccurate; sometimes they include all boroughs, and also rounding to the nearest number, and please enjoy
 
 const cities = [
   {
@@ -52,8 +53,8 @@ const cities = [
    state: Texas,
    region: Southwest,
    alt_population: 3255000  
-   current_population:
-   peak_population:
+   current_population: 2420000
+   peak_population: 2420000
   },
    {
    rank: 7, 
@@ -61,8 +62,8 @@ const cities = [
    state: Arizona,
    region: Southwest,
    alt_population: 2380000
-   current_population:
-   peak_population:
+   current_population: 1680000
+   peak_population: 1680000
   },
    {
    rank: 8,
@@ -70,8 +71,8 @@ const cities = [
    state: Texas,
    region: Southwest,
    alt_population: 2100000
-   current_population:
-   peak_population:
+   current_population: 1580000
+   peak_population: 1580000
   },
    {
    rank: 9,
@@ -79,8 +80,8 @@ const cities = [
    state: Ohio,
    region: Midwest,
    alt_population: 2055000
-   current_population:
-   peak_population:
+   current_population: 370000
+   peak_population: 920000
   },
    {
    rank: 10, 
@@ -88,8 +89,8 @@ const cities = [
    state: California,
    region: West,
    alt_population: 1890000  
-   current_population:
-   peak_population:
+   current_population: 1410000
+   peak_population: 1420000
   },
    {
    rank: 11, 
@@ -97,8 +98,8 @@ const cities = [
    state: Texas,
    region: Southwest,
    alt_population: 1876000
-   current_population:
-   peak_population:
+   current_population: 1340000
+   peak_population: 1350000
   },
    {
    rank: 12,
@@ -106,8 +107,8 @@ const cities = [
    state: Missouri,
    region: Midwest,
    alt_population: 1788000
-   current_population:
-   peak_population:
+   current_population: 280000
+   peak_population: 860000
   },
    {
    rank: 13,
@@ -115,8 +116,8 @@ const cities = [
    state: Florida,
    region: Southeast,
    alt_population: 1722000
-   current_population:
-   peak_population:
+   current_population: 1040000
+   peak_population: 1040000
    },
    {
    rank: 14,
@@ -124,8 +125,8 @@ const cities = [
    state: Maryland,
    region: Northeast,
    alt_population: 1584000
-   current_population:
-   peak_population:
+   current_population: 570000
+   peak_population: 950000
   },
    {
    rank: 15,
@@ -133,8 +134,8 @@ const cities = [
    state: District of Columbia,
    region: Northeast
    alt_population: 1561000
-   current_population:
-   peak_population:
+   current_population: 700000 
+   peak_population: 810000
   },
    {
    rank: 16,
@@ -142,8 +143,8 @@ const cities = [
    state: Florida,
    region: Southeast,
    alt_population: 1540000
-   current_population:
-   peak_population:
+   current_population: 500000
+   peak_population: 500000
   },
    {
    rank: 17,
@@ -151,8 +152,8 @@ const cities = [
    state: Massachusetts,
    region: Northeast,
    alt_population: 1435000
-   current_population:
-   peak_population:
+   current_population: 680000
+   peak_population: 810000
   },
    {
    rank: 18, 
@@ -160,8 +161,8 @@ const cities = [
    state: North Carolina,
    region: Southeast
    alt_population: 1407000
-   current_population:
-   peak_population:
+   current_population: 990000
+   peak_population: 990000
   },
    {
    rank: 19, 
@@ -169,8 +170,8 @@ const cities = [
    state: California,
    region: West,
    alt_population: 1310000
-   current_population:
-   peak_population:
+   current_population: 810000
+   peak_population: 880000
   },
    {
    rank: 20,
@@ -178,8 +179,8 @@ const cities = [
    state: Washington
    region: West,
    alt_population: 1302000
-   current_population:
-   peak_population:
+   current_population: 800000
+   peak_population: 800000
   },
    {
    rank: 21,
@@ -187,8 +188,8 @@ const cities = [
    state: Texas,
    region: Southwest
    alt_population: 1260000
-   current_population:
-   peak_population:
+   current_population: 1050000
+   peak_population: 1050000
   },
    {
    rank: 22, 
@@ -196,8 +197,8 @@ const cities = [
    state: Pennsylvania, 
    region: Northeast,
    alt_population: 1241000
-   current_population:
-   peak_population:
+   current_population: 680000
+   peak_population: 310000
   },
    {
    rank: 23,
