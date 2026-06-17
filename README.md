@@ -269,8 +269,8 @@ const cities = [
    state: Nevada,
    region: West,
    alt_population: 1120000
-   current_population:
-   peak_population:
+   current_population: 690000
+   peak_population: 690000
   },
    {
    rank: 31,
@@ -278,8 +278,8 @@ const cities = [
    state: Georgia,
    region: Southeast,
    alt_population: 1090000
-   current_population:
-   peak_population:
+   current_population: 540000
+   peak_population: 540000
   },
    {
    rank: 32, 
@@ -287,8 +287,8 @@ const cities = [
    state: Tennessee,
    region: Southeast,
    alt_population: 1086000
-   current_population:
-   peak_population:
+   current_population: 730000
+   peak_population: 730000
   },
    {
    rank: 33, 
@@ -296,8 +296,8 @@ const cities = [
    state: Colorado,
    region: West,
    alt_population: 1081000
-   current_population:
-   peak_population:
+   current_population: 750000
+   peak_population: 750000
   },
    {
    rank: 34, 
@@ -305,8 +305,8 @@ const cities = [
    state: Missouri,
    region: Midwest,
    alt_population: 1060000
-   current_population:
-   peak_population:
+   current_population: 530000
+   peak_population: 530000
   },
    {
    rank: 35, 
@@ -314,8 +314,8 @@ const cities = [
    state: Kentucky,
    region: Southeast,
    alt_population: 1040000
-   current_population:
-   peak_population:
+   current_population: 650000
+   peak_population: 650000
   },
    {
    rank: 36,
@@ -323,8 +323,8 @@ const cities = [
    state: Minnesota,
    region: Midwest,
    alt_population: 1030000
-   current_population:
-   peak_population:
+   current_population: 435000
+   peak_population: 530000
   },
    {
    rank: 37,
@@ -332,8 +332,8 @@ const cities = [
    state: New Jersey,
    region: Northeast,
    alt_population: 1022000
-   current_population:
-   peak_population:
+   current_population: 330000
+   peak_population: 450000
   },
    {
    rank: 38, 
@@ -341,8 +341,8 @@ const cities = [
    state: Oregon,
    region: West,
    alt_population: 1022000
-   current_population:
-   peak_population:
+   current_population: 630000
+   peak_population: 660000
   },
    {
    rank: 39, 
@@ -350,8 +350,8 @@ const cities = [
    state: New York,
    region: Northeast,
    alt_population: 1014000
-   current_population:
-   peak_population:
+   current_population: 280000
+   peak_population: 580000
   },
    {
    rank: 40, 
@@ -359,8 +359,8 @@ const cities = [
    state: Florida,
    region: Southeast,
    alt_population: 1008000
-   current_population:
-   peak_population:
+   current_population: 420000
+   peak_population: 420000
   },
    {
    rank: 41,
@@ -368,8 +368,8 @@ const cities = [
    state: Oklahoma,
    region: Southwest,
    alt_population: 1002000
-   current_population:
-   peak_population:
+   current_population: 730000
+   peak_population: 730000
    },
    {
    rank 42,
@@ -377,8 +377,8 @@ const cities = [
    state: Hawaii,
    region: West,
    alt_population: 966000
-   current_population:
-   peak_population:
+   current_population: 340000
+   peak_population: 380000
    },
    {
    rank 43,
@@ -386,8 +386,8 @@ const cities = [
    state: Iowa,
    region: Midwest,
    alt_population: 965,000
-   current_population:
-   peak_population:
+   current_population: 210000
+   peak_population: 220000
    },
    {
    rank 44,
@@ -395,8 +395,8 @@ const cities = [
    state: California,
    region: West,
    alt_population: 960000
-   current_population:
-   peak_population:
+   current_population: 450000
+   peak_population: 470000
    },
    {
    rank 45,
@@ -404,8 +404,8 @@ const cities = [
    state: Ohio,
    region: Midwest,
    alt_population: 952000
-   current_population:
-   peak_population:
+   current_population: 320000
+   peak_population: 510000
    },
    {
    rank 46,
@@ -413,8 +413,8 @@ const cities = [
    state: Texas,
    region: Southwest,
    alt_population: 910000
-   current_population:
-   peak_population:
+   current_population: 690000
+   peak_population: 690000
    },
    {
    rank 47,
@@ -422,8 +422,8 @@ const cities = [
    state: Oklahoma,
    region: Southwest,
    alt_population: 905000
-   current_population:
-   peak_population:
+   current_population: 420000
+   peak_population: 420000
    },
    {
    rank 48,
@@ -431,8 +431,8 @@ const cities = [
    state: California,
    region: West,
    alt_population: 902000
-   current_population:
-   peak_population:
+   current_population: 450000
+   peak_population: 450000
    },
    {
    rank 49,
@@ -440,8 +440,8 @@ const cities = [
    state: Kansas,
    region: Midwest,
    alt_population: 851000
-   current_population:
-   peak_population:
+   current_population: 410000
+   peak_population: 410000
    },
    {
    rank 50,
@@ -449,8 +449,8 @@ const cities = [
    state: New Mexico,
    region: Southwest,
    alt_population: 850000
-   current_population:
-   peak_population:
+   current_population: 550000
+   peak_population: 570000
    },
    {
    rank 51,
@@ -458,8 +458,8 @@ const cities = [
    state: Connecticut,
    region: Northeast,
    alt_population: 822000
-   current_population:
-   peak_population:
+   current_population: 150000
+   peak_population: 170000
    },
    {
    rank 52,
@@ -467,8 +467,8 @@ const cities = [
    state: Alabama,
    region: Southeast,
    alt_population: 815000
-   current_population:
-   peak_population:
+   current_population: 200000
+   peak_population: 350000
    },
    {
    rank 53,
@@ -476,8 +476,8 @@ const cities = [
    state: California,
    region: West,
    alt_population: 814000
-   current_population:
-   peak_population:
+   current_population: 560000
+   peak_population: 560000
    },
    {
    rank 54,
@@ -485,8 +485,8 @@ const cities = [
    state: New York,
    region: Northeast,
    alt_population: 809000
-   current_population:
-   peak_population:
+   current_population: 210000
+   peak_population: 340000
    },
    {
    rank 55,
@@ -494,8 +494,8 @@ const cities = [
    state: Nebraska,
    region: Midwest,
    alt_population: 805000
-   current_population:
-   peak_population:
+   current_population: 490000
+   peak_population: 500000
    },
    {
    rank 56,
@@ -503,8 +503,8 @@ const cities = [
    state: New Jersey,
    region: Northeast,
    alt_population: 791000
-   current_population:
-   peak_population:
+   current_population: 310000
+   peak_population: 320000
    },
    {
    rank 57,
@@ -512,8 +512,8 @@ const cities = [
    state: California,
    region: West,
    alt_population: 786000
-   current_population:
-   peak_population:
+   current_population: 540000
+   peak_population: 540000
    },
    {
    rank 58,
@@ -521,8 +521,8 @@ const cities = [
    state: North Carolina,
    region: Southeast,
    alt_population: 770000
-   current_population:
-   peak_population:
+   current_population: 520000
+   peak_population: 520000
    },
    {
    rank 59,
@@ -530,8 +530,8 @@ const cities = [
    state: Arizona,
    region: Southwest,
    alt_population: 769000
-   current_population:
-   peak_population:
+   current_population: 550000
+   peak_population: 560000
    },
    {
    rank 60,
@@ -539,8 +539,8 @@ const cities = [
    state: Ohio,
    region: Midwest,
    alt_population: 765000
-   current_population:
-   peak_population:
+   current_population: 270000
+   peak_population: 390000
    },
    {
    rank 61,
@@ -548,8 +548,8 @@ const cities = [
    state: Rhode Island,
    region: Northeast,
    alt_population: 756000
-   current_population:
-   peak_population:
+   current_population: 200000
+   peak_population: 260000
    },
    {
    rank 62,
@@ -557,8 +557,8 @@ const cities = [
    state: Virginia,
    region: Southeast,
    alt_population: 745000
-   current_population:
-   peak_population:
+   current_population: 450000
+   peak_population: 460000
    },
    {
    rank 63,
@@ -566,8 +566,8 @@ const cities = [
    state: Virginia,
    region: Southeast,
    alt_population: 728000
-   current_population:
-   peak_population:
+   current_population: 230000
+   peak_population: 310000
    },
    {
    rank 64,
@@ -575,8 +575,8 @@ const cities = [
    state: Colorado,
    region: West,
    alt_population: 714000
-   current_population:
-   peak_population:
+   current_population: 500000
+   peak_population: 500000
    },
    {
    rank 65,
@@ -584,8 +584,8 @@ const cities = [
    state: Minnesota,
    region: Midwest,
    alt_population: 702000
-   current_population:
-   peak_population:
+   current_population: 310000
+   peak_population: 320000
    },
    {
    rank 66,
@@ -593,8 +593,8 @@ const cities = [
    state: Connecticut,
    region: Northeast,
    alt_population: 672000
-   current_population:
-   peak_population:
+   current_population: 130000
+   peak_population: 180000
    },
    {
    rank 67,
@@ -602,8 +602,8 @@ const cities = [
    state: Alaska,
    region: West,
    alt_population: 665000
-   current_population:
-   peak_population:
+   current_population: 290000
+   peak_population: 310000
    },
    {
    rank 68,
@@ -611,8 +611,8 @@ const cities = [
    state: California,
    region: West,
    alt_population: 655000
-   current_population:
-   peak_population:
+   current_population: 320000
+   peak_population: 340000
    },
    {
    rank 69,
@@ -620,8 +620,8 @@ const cities = [
    state: New York,
    region: Northeast,
    alt_population: 651000
-   current_population:
-   peak_population:
+   current_population: 150000
+   peak_population: 230000
    },
    {
    rank 70,
@@ -629,8 +629,8 @@ const cities = [
    state: Arkansas,
    region: Southeast,
    alt_population: 640000
-   current_population:
-   peak_population:
+   current_population: 210000
+   peak_population: 210000
    },
    {
    rank 71,
@@ -638,8 +638,8 @@ const cities = [
    state: Idaho,
    region: West,
    alt_population: 637000
-   current_population:
-   peak_population:
+   current_population: 240000
+   peak_population: 240000
    },
    {
    rank 72,
@@ -647,8 +647,8 @@ const cities = [
    state: Maine,
    region: Northeast,
    alt_population: 632000
-   current_population:
-   peak_population:
+   current_population: 70000
+   peak_population: 80000
    },
    {
    rank 73,
@@ -656,8 +656,8 @@ const cities = [
    state: California,
    region: West,
    alt_population: 630000
-   current_population:
-   peak_population:
+   current_population: 340000
+   peak_population: 360000
    },
    {
    rank 74,
@@ -665,8 +665,8 @@ const cities = [
    state: Ohio,
    region: Midwest,
    alt_population: 624000
-   current_population:
-   peak_population:
+   current_population: 190000
+   peak_population: 300000
    },
    {
    rank 75,
@@ -674,8 +674,8 @@ const cities = [
    state: Texas,
    region: Southwest,
    alt_population: 624000
-   current_population:
-   peak_population:
+   current_population: 410000
+   peak_population: 410000
    },
    {
    rank 76,
@@ -683,8 +683,8 @@ const cities = [
    state: Ohio,
    region: Midwest,
    alt_population: 621000
-   current_population:
-   peak_population:
+   current_population: 140000
+   peak_population: 270000
    },
    {
    rank 77,
@@ -692,8 +692,8 @@ const cities = [
    state: South Carolina,
    region: Southeast,
    alt_population: 608000
-   current_population:
-   peak_population:
+   current_population: 170000
+   peak_population: 170000
    },
    {
    rank 78,
@@ -701,8 +701,8 @@ const cities = [
    state: Utah,
    region: West,
    alt_population: 605000
-   current_population:
-   peak_population:
+   current_population: 230000
+   peak_population: 230000
    },
    {
    rank 79,
@@ -710,8 +710,8 @@ const cities = [
    state: Mississippi,
    region: Southeast,
    alt_population: 591000
-   current_population:
-   peak_population:
+   current_population: 140000
+   peak_population: 210000
    },
    {
    rank 80,
@@ -719,8 +719,8 @@ const cities = [
    state: Colorado,
    region: West,
    alt_population: 588000
-   current_population:
-   peak_population:
+   current_population: 420000
+   peak_population: 420000
    },
    {
    rank 81,
@@ -728,8 +728,8 @@ const cities = [
    state: Massachusetts,
    region: Northeast,
    alt_population: 585000
-   current_population:
-   peak_population:
+   current_population: 220000
+   peak_population: 220000
    },
    {
    rank 82,
@@ -737,8 +737,8 @@ const cities = [
    state: Wisconsin,
    region: Midwest,
    alt_population: 575000
-   current_population:
-   peak_population:
+   current_population: 290000
+   peak_population: 290000
    },
    {
    rank 83,
@@ -746,8 +746,8 @@ const cities = [
    state: Virginia,
    region: Southeast,
    alt_population: 571000
-   current_population:
-   peak_population:
+   current_population: 240000
+   peak_population: 250000
    },
    {
    rank 84,
@@ -755,8 +755,8 @@ const cities = [
    state: Michigan,
    region: Midwest,
    alt_population: 568000
-   current_population:
-   peak_population:
+   current_population: 210000
+   peak_population: 210000
    },
    {
    rank 85,
@@ -764,8 +764,8 @@ const cities = [
    state: West Virginia,
    region: Southeast,
    alt_population: 567000
-   current_population:
-   peak_population:
+   current_population: 50000
+   peak_population: 90000
    },
    {
    rank 86,
@@ -773,8 +773,8 @@ const cities = [
    state: Arizona,
    region: Southwest,
    alt_population: 565000
-   current_population:
-   peak_population:
+   current_population: 520000
+   peak_population: 520000
    },
    {
    rank 87,
@@ -782,8 +782,8 @@ const cities = [
    state: South Dakota,
    region: Midwest,
    alt_population: 553000
-   current_population:
-   peak_population:
+   current_population: 220000
+   peak_population: 220000
    },
    {
    rank 88,
@@ -791,8 +791,8 @@ const cities = [
    state: Florida,
    region: Southeast,
    alt_population: 551000
-   current_population:
-   peak_population:
+   current_population: 350000
+   peak_population: 350000
    },
    {
    rank 89,
@@ -800,8 +800,8 @@ const cities = [
    state: Washington,
    region: West,
    alt_population: 545000
-   current_population:
-   peak_population:
+   current_population: 240000
+   peak_population: 240000
    },
    {
    rank 90,
@@ -809,8 +809,8 @@ const cities = [
    state: California,
    region: West,
    alt_population: 541000
-   current_population:
-   peak_population:
+   current_population: 330000
+   peak_population: 330000
    },
    {
    rank 91,
@@ -818,8 +818,8 @@ const cities = [
    state: Montana,
    region: West,
    alt_population: 540000
-   current_population:
-   peak_population:
+   current_population: 130000
+   peak_population: 130000
    },
    {
    rank 92,
@@ -827,8 +827,8 @@ const cities = [
    state: California,
    region: West,
    alt_population: 532000
-   current_population:
-   peak_population:
+   current_population: 430000
+   peak_population: 430000
    },
    {
    rank 93,
@@ -836,8 +836,8 @@ const cities = [
    state: Alabama,
    region: Southeast,
    alt_population: 532000
-   current_population:
-   peak_population:
+   current_population: 200000
+   peak_population: 210000
    },
    {
    rank 94,
@@ -845,8 +845,8 @@ const cities = [
    state: Kentucky,
    region: Southeast,
    alt_population: 532000
-   current_population:
-   peak_population:
+   current_population: 340000
+   peak_population: 340000
    },
    {
    rank 95,
@@ -854,8 +854,8 @@ const cities = [
    state: Texas,
    region: Southwest,
    alt_population: 530000
-   current_population:
-   peak_population:
+   current_population: 330000
+   peak_population: 330000
    },
    {
    rank 96,
@@ -863,8 +863,8 @@ const cities = [
    state: Michigan,
    region: Midwest,
    alt_population: 525000
-   current_population:
-   peak_population:
+   current_population: 80000
+   peak_population: 200000
    },
    {
    rank 97,
@@ -872,8 +872,8 @@ const cities = [
    state: Nevada,
    region: West,
    alt_population: 520000
-   current_population:
-   peak_population:
+   current_population: 290000
+   peak_population: 290000
    },
    {
    rank 98,
@@ -881,8 +881,8 @@ const cities = [
    state: California,
    region: West,
    alt_population: 512000
-   current_population:
-   peak_population:
+   current_population: 330000
+   peak_population: 330000
    },
    {
    rank 99,
@@ -890,8 +890,8 @@ const cities = [
    state: Georgia,
    region: Southeast,
    alt_population: 504000
-   current_population:
-   peak_population:
+   current_population: 150000
+   peak_population: 160000
    },
    {
    rank 100,
@@ -899,8 +899,8 @@ const cities = [
    state: Nevada,
    region: West,
    alt_population: 501000
-   current_population:
-   peak_population:
+   current_population: 370000
+   peak_population: 370000
    },
    
 ];
