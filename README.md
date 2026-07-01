@@ -135,7 +135,7 @@ const cities = [
    city: Washington DC,
    state: District of Columbia,
    region: Northeast
-   alt_population: 1561000
+   alt_population: 1568000
    current_population: 700000 
    peak_population: 810000
   },
