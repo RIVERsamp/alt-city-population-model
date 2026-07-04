@@ -1,7 +1,7 @@
 # alt-city-population-mod
 # Attention: Some of the current populations or peak populations may appear to be inaccurate; sometimes they include all boroughs, and also rounding to the nearest number, and please enjoy
 
-# !!! BIG POPULATION PROJECTIONS!!!
+# !!! BIG POPULATION ALTERNATIVE PROJECTIONS!!!
 
 const cities = [
   {
