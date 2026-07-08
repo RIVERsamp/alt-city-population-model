@@ -9,7 +9,7 @@ const cities = [
    city: New York City,
    state: New York,
    region: Northeast,
-   alt_population: 17650000
+   alt_population: 17640000
    current_population: 8580000
    peak_population: 9520000
   },
