@@ -9,7 +9,7 @@ const cities = [
    city: New York City,
    state: New York,
    region: Northeast,
-   alt_population: 17640000
+   alt_population: 17850000
    current_population: 8580000
    peak_population: 9520000
   },
@@ -18,7 +18,7 @@ const cities = [
    city: Chicago,
    state: Illinois,
    region: Midwest,
-   alt_population: 7315000 
+   alt_population: 7387000
    current_population: 2730000
    peak_population: 3626000
   },
@@ -27,7 +27,7 @@ const cities = [
    city: Los Angeles,
    state: California,
    region: West,
-   alt_population: 5432000 
+   alt_population: 5502000
    current_population: 3871000
    peak_population: 3920000
   },
@@ -36,7 +36,7 @@ const cities = [
    city: Detroit,
    state: Michigan,
    region: Midwest,
-   alt_population: 4025000 
+   alt_population: 4040000 
    current_population: 651000
    peak_population: 1855000
   },
@@ -45,7 +45,7 @@ const cities = [
    city: Philadelphia,
    state: Pennsylvania,
    region: Northeast,
-   alt_population: 3451000
+   alt_population: 3455000
    current_population: 1574000
    peak_population: 2072000
   },
@@ -54,7 +54,7 @@ const cities = [
    city: Houston,
    state: Texas,
    region: Southwest,
-   alt_population: 3255000  
+   alt_population: 3271000  
    current_population: 2420000
    peak_population: 2420000
   },
@@ -81,7 +81,7 @@ const cities = [
    city: Cleveland,
    state: Ohio,
    region: Midwest,
-   alt_population: 2055000
+   alt_population: 2060000
    current_population: 370000
    peak_population: 920000
   },
