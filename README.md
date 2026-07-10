@@ -18,7 +18,7 @@ const cities = [
    city: Chicago,
    state: Illinois,
    region: Midwest,
-   alt_population: 7387000
+   alt_population: 7525000
    current_population: 2730000
    peak_population: 3626000
   },
@@ -36,34 +36,34 @@ const cities = [
    city: Detroit,
    state: Michigan,
    region: Midwest,
-   alt_population: 4040000 
+   alt_population: 4120000 
    current_population: 651000
    peak_population: 1855000
   },
-   {
+  {
    rank: 5,
-   city: Philadelphia,
-   state: Pennsylvania,
-   region: Northeast,
-   alt_population: 3455000
-   current_population: 1574000
-   peak_population: 2072000
-  },
-   {
-   rank: 6,
    city: Houston,
    state: Texas,
    region: Southwest,
-   alt_population: 3271000  
+   alt_population: 3605000  
    current_population: 2420000
    peak_population: 2420000
+  },
+   {
+   rank: 6,
+   city: Philadelphia,
+   state: Pennsylvania,
+   region: Northeast,
+   alt_population: 3486000
+   current_population: 1574000
+   peak_population: 2072000
   },
    {
    rank: 7, 
    city: Phoenix,
    state: Arizona,
    region: Southwest,
-   alt_population: 2380000
+   alt_population: 2450000
    current_population: 1680000
    peak_population: 1680000
   },
@@ -72,7 +72,7 @@ const cities = [
    city: San Antonio,
    state: Texas,
    region: Southwest,
-   alt_population: 2100000
+   alt_population: 2121000
    current_population: 1580000
    peak_population: 1580000
   },
@@ -81,7 +81,7 @@ const cities = [
    city: Cleveland,
    state: Ohio,
    region: Midwest,
-   alt_population: 2060000
+   alt_population: 2065000
    current_population: 370000
    peak_population: 920000
   },
@@ -108,7 +108,7 @@ const cities = [
    city: St. Louis, 
    state: Missouri,
    region: Midwest,
-   alt_population: 1788000
+   alt_population: 1800000
    current_population: 280000
    peak_population: 860000
   },
@@ -117,7 +117,7 @@ const cities = [
    city: Jacksonville,
    state: Florida,
    region: Southeast,
-   alt_population: 1722000
+   alt_population: 1750000
    current_population: 1040000
    peak_population: 1040000
    },
@@ -126,7 +126,7 @@ const cities = [
    city: Baltimore,
    state: Maryland,
    region: Northeast,
-   alt_population: 1584000
+   alt_population: 1589000
    current_population: 570000
    peak_population: 950000
   },
@@ -144,7 +144,7 @@ const cities = [
    city: Miami,
    state: Florida,
    region: Southeast,
-   alt_population: 1540000
+   alt_population: 1541000
    current_population: 500000
    peak_population: 500000
   },
@@ -153,7 +153,7 @@ const cities = [
    city: Boston,
    state: Massachusetts,
    region: Northeast,
-   alt_population: 1435000
+   alt_population: 1442000
    current_population: 680000
    peak_population: 810000
   },
@@ -162,7 +162,7 @@ const cities = [
    city: Charlotte,
    state: North Carolina,
    region: Southeast
-   alt_population: 1407000
+   alt_population: 1414000
    current_population: 990000
    peak_population: 990000
   },
@@ -171,7 +171,7 @@ const cities = [
    city: San Francisco, 
    state: California,
    region: West,
-   alt_population: 1310000
+   alt_population: 1358000
    current_population: 810000
    peak_population: 880000
   },
@@ -180,7 +180,7 @@ const cities = [
    city: Seattle,
    state: Washington
    region: West,
-   alt_population: 1302000
+   alt_population: 1330000
    current_population: 800000
    peak_population: 800000
   },
@@ -198,7 +198,7 @@ const cities = [
    city: Pittsburgh,
    state: Pennsylvania, 
    region: Northeast,
-   alt_population: 1241000
+   alt_population: 1242000
    current_population: 310000
    peak_population: 680000
   },
@@ -234,7 +234,7 @@ const cities = [
    city: New Orleans,
    state: Louisiana,
    region: Southeast,
-   alt_population: 1162000
+   alt_population: 1165000
    current_population: 355000
    peak_population: 630000
   },
@@ -243,7 +243,7 @@ const cities = [
    city: Indianapolis,
    state: Indiana,
    region: Midwest,
-   alt_population: 1158000
+   alt_population: 1161000
    current_population: 910000
    peak_population: 910000
   },
@@ -252,7 +252,7 @@ const cities = [
    city: Columbus,
    state: Ohio,
    region: Midwest,
-   alt_population: 1155000
+   alt_population: 1158000
    current_population: 950000
    peak_population: 950000
   },
@@ -261,7 +261,7 @@ const cities = [
    city: Milwaukee,
    state: Wisconsin,
    region: Midwest,
-   alt_population: 1152000
+   alt_population: 1155000
    current_population: 555000
    peak_population: 750000
   },
@@ -270,93 +270,101 @@ const cities = [
    city: Las Vegas,
    state: Nevada,
    region: West,
-   alt_population: 1120000
+   alt_population: 1122000
    current_population: 690000
    peak_population: 690000
   },
-   {
+     {
    rank: 31,
-   city: Atlanta,
-   state: Georgia,
-   region: Southeast,
-   alt_population: 1090000
-   current_population: 540000
-   peak_population: 540000
-  },
-   {
-   rank: 32, 
-   city: Nashville,
-   state: Tennessee,
-   region: Southeast,
-   alt_population: 1086000
-   current_population: 730000
-   peak_population: 730000
-  },
-   {
-   rank: 33, 
-   city: Denver,
-   state: Colorado,
-   region: West,
-   alt_population: 1081000
-   current_population: 750000
-   peak_population: 750000
-  },
-   {
-   rank: 34, 
-   city: Kansas City,
-   state: Missouri,
-   region: Midwest,
-   alt_population: 1060000
-   current_population: 530000
-   peak_population: 530000
-  },
-   {
-   rank: 35, 
-   city: Louisville,
-   state: Kentucky,
-   region: Southeast,
-   alt_population: 1040000
-   current_population: 650000
-   peak_population: 650000
-  },
-   {
-   rank: 36,
-   city: Minneapolis,
-   state: Minnesota,
-   region: Midwest,
-   alt_population: 1030000
-   current_population: 435000
-   peak_population: 530000
-  },
-   {
-   rank: 37,
    city: Newark,
    state: New Jersey,
    region: Northeast,
-   alt_population: 1022000
+   alt_population: 1114000
    current_population: 330000
    peak_population: 450000
   },
    {
-   rank: 38, 
-   city: Portland,
-   state: Oregon,
-   region: West,
-   alt_population: 1022000
-   current_population: 630000
-   peak_population: 660000
-  },
-   {
-   rank: 39, 
+   rank: 32, 
    city: Buffalo,
    state: New York,
    region: Northeast,
-   alt_population: 1014000
+   alt_population: 1100000
    current_population: 280000
    peak_population: 580000
   },
    {
-   rank: 40, 
+   rank: 33,
+   city: Atlanta,
+   state: Georgia,
+   region: Southeast,
+   alt_population: 1091000
+   current_population: 540000
+   peak_population: 540000
+  },
+   {
+   rank: 34, 
+   city: Nashville,
+   state: Tennessee,
+   region: Southeast,
+   alt_population: 1088000
+   current_population: 730000
+   peak_population: 730000
+  },
+  {
+   rank: 35,
+   city: Minneapolis,
+   state: Minnesota,
+   region: Midwest,
+   alt_population: 1086000
+   current_population: 435000
+   peak_population: 530000
+  },
+   {
+   rank: 36, 
+   city: Denver,
+   state: Colorado,
+   region: West,
+   alt_population: 1085000
+   current_population: 750000
+   peak_population: 750000
+  },
+    {
+   rank: 37, 
+   city: Portland,
+   state: Oregon,
+   region: West,
+   alt_population: 1075000
+   current_population: 630000
+   peak_population: 660000
+  },
+   {
+   rank: 38, 
+   city: Kansas City,
+   state: Missouri,
+   region: Midwest,
+   alt_population: 1066000
+   current_population: 530000
+   peak_population: 530000
+  },
+   {
+   rank: 39, 
+   city: Louisville,
+   state: Kentucky,
+   region: Southeast,
+   alt_population: 1042000
+   current_population: 650000
+   peak_population: 650000
+  },
+   rank: 40,
+   city: Oklahoma City,
+   state: Oklahoma,
+   region: Southwest,
+   alt_population: 1022000
+   current_population: 730000
+   peak_population: 730000
+   },
+   {
+   rank: 41, 
    city: Tampa,
    state: Florida,
    region: Southeast,
@@ -364,15 +372,6 @@ const cities = [
    current_population: 420000
    peak_population: 420000
   },
-   {
-   rank: 41,
-   city: Oklahoma City,
-   state: Oklahoma,
-   region: Southwest,
-   alt_population: 1002000
-   current_population: 730000
-   peak_population: 730000
-   },
    {
    rank 42,
    city: Honolulu,
