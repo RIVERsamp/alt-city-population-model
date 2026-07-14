@@ -223,7 +223,8 @@ const cities = [
    peak_population: 800000
    peak_population_year: null
   },
-   rank 20,
+  {
+   rank 21,
    city: "Memphis",
    state: "Tennessee",
    region: "Southeast",
@@ -234,7 +235,7 @@ const cities = [
    peak_population_year: 2000
   },
    {
-   rank: 21,
+   rank: 22,
    city: "Newark",
    state: "New Jersey",
    region: "Northeast",
@@ -245,7 +246,7 @@ const cities = [
    peak_population_year: 1950
   },
    {
-   rank: 22,
+   rank: 23,
    city: "Fort Worth",
    state: "Texas",
    region: "Southwest",
@@ -256,7 +257,7 @@ const cities = [
    peak_population_year: null
   },
    {
-   rank: 23, 
+   rank: 24, 
    city: "Pittsburgh",
    state: "Pennsylvania", 
    region: "Northeast",
@@ -267,7 +268,7 @@ const cities = [
    peak_population_year: 1950 
   },
    {
-   rank: 24,
+   rank: 25,
    city: "Nashville",
    state: "Tennessee",
    region: "Southeast",
@@ -276,8 +277,9 @@ const cities = [
    current_population: 730000
    peak_population: 730000
    peak_population_year: null 
+   },
    {
-   rank: 25,
+   rank: 26,
    city: "San Jose",
    state: "California",
    region: "West",
@@ -288,7 +290,7 @@ const cities = [
    peak_population_year: 2017 
   },
     {
-   rank: 26, 
+   rank: 27, 
    city: "New Orleans",
    state: "Louisiana",
    region: "Southeast",
@@ -299,7 +301,7 @@ const cities = [
    peak_population_year: 1960 
   },
    {
-   rank: 27, 
+   rank: 28, 
    city: "Austin",
    state: "Texas",
    region: "Southwest",
@@ -310,7 +312,7 @@ const cities = [
    peak_population_year: null
   },
    {
-   rank: 28, 
+   rank: 29, 
    city: "Indianapolis",
    state: "Indiana",
    region: "Midwest",
@@ -321,7 +323,7 @@ const cities = [
    peak_population_year: null 
   },
    {
-   rank: 29, 
+   rank: 30, 
    city: "Columbus",
    state: "Ohio",
    region: "Midwest",
@@ -332,7 +334,7 @@ const cities = [
    peak_population_year: null 
   },
    {
-   rank: 30, 
+   rank: 31, 
    city: "Milwaukee",
    state: "Wisconsin",
    region: "Midwest",
@@ -343,7 +345,7 @@ const cities = [
    peak_population_year: 1960 
   },
    {
-   rank: 31,
+   rank: 32,
    city: "Atlanta",
    state: "Georgia",
    region: "Southeast",
@@ -354,7 +356,7 @@ const cities = [
    peak_population_year: null
   },
    {
-   rank: 32, 
+   rank: 33, 
    city: "Las Vegas",
    state: "Nevada",
    region: "West",
@@ -365,7 +367,7 @@ const cities = [
    peak_population_year: null
   },
   {
-   rank: 33, 
+   rank: 34, 
    city: "Louisville",
    state: "Kentucky",
    region: "Southeast",
@@ -376,7 +378,7 @@ const cities = [
    peak_population_year: null 
   },
    {
-   rank: 34,
+   rank: 35,
    city: "Minneapolis",
    state: "Minnesota",
    region: "Midwest",
@@ -387,308 +389,337 @@ const cities = [
    peak_population_year: 1950
   },
    {
-   rank: 35, 
-   city: Buffalo,
-   state: New York,
-   region: Northeast,
-   country: United States,
+   rank: 36, 
+   city: "Buffalo",
+   state: "New York",
+   region: "Northeast",
+   country: "United States",
    alt_population: 1106000
    current_population: 280000
    peak_population: 580000
+   peak_population_year: 1950
   },
    {
-   rank: 36, 
-   city: Denver,
-   state: Colorado,
-   region: West,
-   country: United States,
+   rank: 37, 
+   city: "Denver",
+   state: "Colorado",
+   region: "West",
+   country: "United States",
    alt_population: 1100000
    current_population: 750000
    peak_population: 750000
+   peak_population_year: null
   },
     {
-   rank: 37, 
-   city: Portland,
-   state: Oregon,
-   region: West,
-   country: United States,
+   rank: 38, 
+   city: "Portland",
+   state: "Oregon",
+   region: "West",
+   country: "United States",
    alt_population: 1080000
    current_population: 630000
    peak_population: 660000
+   peak_population_year: 2020
   },
    {
-   rank: 38, 
-   city: Kansas City,
-   state: Missouri,
-   region: Midwest,
-   country: United States,
+   rank: 39, 
+   city: "Kansas City",
+   state: "Missouri",
+   region: "Midwest",
+   country: "United States",
    alt_population: 1071000
    current_population: 530000
    peak_population: 530000
+   peak_population_year: null
   },
    {
-   rank: 39,
-   city: Oklahoma City,
-   state: Oklahoma,
-   region: Southwest,
-   country: United States,
+   rank: 40,
+   city: "Oklahoma City",
+   state: "Oklahoma",
+   region: "Southwest",
+   country: "United States",
    alt_population: 1064000
    current_population: 730000
    peak_population: 730000
+   peak_population_year: null
    },
    {
-   rank: 40, 
-   city: Tampa,
-   state: Florida,
-   region: Southeast,
-   country: United States,
+   rank: 41, 
+   city: "Tampa",
+   state: "Florida",
+   region: "Southeast",
+   country: "United States",
    alt_population: 1058000
    current_population: 420000
    peak_population: 420000
+   peak_population_year: null
   },
    {
-   rank 41,
-   city: Honolulu,
-   state: Hawaii,
-   region: West,
-   country: United States,
+   rank 42,
+   city: "Honolulu",
+   state: "Hawaii",
+   region: "West",
+   country: "United States",
    alt_population: 1022000
    current_population: 340000
    peak_population: 380000
+   peak_population_year: null
    },
    {
-   rank 42,
-   city: Des Moines,
-   state: Iowa,
-   region: Midwest,
-   country: United States,
+   rank 43,
+   city: "Des Moines",
+   state: "Iowa",
+   region: "Midwest",
+   country: "United States",
    alt_population: 1017000
    current_population: 210000
    peak_population: 220000
+   peak_population_year: 2017
    },
     {
-   rank 43,
-   city: Cincinnati,
-   state: Ohio,
-   region: Midwest,
-   country: United States,
+   rank 44,
+   city: "Cincinnati",
+   state: "Ohio",
+   region: "Midwest",
+   country: "United States",
    alt_population: 1002000
    current_population: 320000
    peak_population: 510000
+   peak_population_year: 1950
    },
    {
-   rank 44,
-   city: Long Beach,
-   state: California,
-   region: West,
-   country: United States,
+   rank 45,
+   city: "Long Beach",
+   state: "California",
+   region: "West",
+   country: "United States",
    alt_population: 966000
    current_population: 450000
    peak_population: 470000
+   peak_population_year: 2015
    },
     {
-   rank 45,
-   city: Oakland,
-   state: California,
-   region: West,
+   rank 46,
+   city: "Oakland",
+   state: "California",
+   region: "West",
    country: United States,
    alt_population: 941000
    current_population: 450000
    peak_population: 450000
+   peak_population_year: null
    },
    {
-   rank 46,
-   city: El Paso,
-   state: Texas,
-   region: Southwest,
-   country: United States,
+   rank 47,
+   city: "El Paso",
+   state: "Texas",
+   region: "Southwest",
+   country: "United States",
    alt_population: 940000
    current_population: 690000
    peak_population: 690000
+   peak_population_year: null
    },
     {
-   rank 47,
-   city: New Haven, 
-   state: Connecticut,
-   region: Northeast,
-   country: United States,
+   rank 48,
+   city: "New Haven", 
+   state: "Connecticut",
+   region: "Northeast",
+   country: "United States",
    alt_population: 938000
    current_population: 150000
    peak_population: 170000
-   },
-   {
-   rank 48,
-   city: Tulsa,
-   state: Oklahoma,
-   region: Southwest,
-   country: United States,
-   alt_population: 931000
-   current_population: 420000
-   peak_population: 420000
+   peak_population_year: 1950
    },
    {
    rank 49,
-   city: Virginia Beach,
-   state: Virginia,
-   region: Southeast,
-   country: United States,
-   alt_population: 929000
-   current_population: 450000
-   peak_population: 460000
+   city: "Tulsa",
+   state: "Oklahoma",
+   region: "Southwest",
+   country: "United States",
+   alt_population: 931000
+   current_population: 420000
+   peak_population: 420000
+   peak_population_year: null
    },
    {
    rank 50,
-   city: Albuquerque,
-   state: New Mexico,
-   region: Southwest,
-   country: United States,
-   alt_population: 910000
-   current_population: 550000
-   peak_population: 570000
+   city: "Virginia Beach",
+   state: "Virginia",
+   region: "Southeast",
+   country: "United States",
+   alt_population: 929000
+   current_population: 450000
+   peak_population: 460000
+   peak_population_year: null
    },
    {
    rank 51,
-   city: Birmingham,
-   state: Alabama,
-   region: Southeast,
-   country: United States,
-   alt_population: 900000
-   current_population: 200000
-   peak_population: 350000
+   city: "Albuquerque",
+   state: "New Mexico",
+   region: "Southwest",
+   country: "United States",
+   alt_population: 910000
+   current_population: 550000
+   peak_population: 570000
+   peak_population_year: null
    },
    {
    rank 52,
-   city: Wichita,
-   state: Kansas,
-   region: Midwest,
-   country: United States,
-   alt_population: 898000
-   current_population: 410000
-   peak_population: 410000
+   city: "Birmingham",
+   state: "Alabama",
+   region: "Southeast",
+   country: "United States",
+   alt_population: 900000
+   current_population: 200000
+   peak_population: 350000
+   peak_population_year: 1960
    },
    {
    rank 53,
-   city: Rochester,
-   state: New York,
-   region: Northeast,
-   country: United States,
-   alt_population: 896000
-   current_population: 210000
-   peak_population: 340000
+   city: "Wichita",
+   state: "Kansas",
+   region: "Midwest",
+   country: "United States",
+   alt_population: 898000
+   current_population: 410000
+   peak_population: 410000
+   peak_population_year: null
    },
    {
    rank 54,
-   city: Jersey City,
-   state: New Jersey,
-   region: Northeast,
-   country: United States,
-   alt_population: 855000
-   current_population: 310000
-   peak_population: 320000
+   city: "Rochester",
+   state: "New York",
+   region: "Northeast",
+   country: "United States",
+   alt_population: 896000
+   current_population: 210000
+   peak_population: 340000
+   peak_population_year: 1950 
    },
    {
    rank 55,
-   city: Fresno,
-   state: California,
-   region: West,
-   country: United States,
+   city: "Jersey City",
+   state: "New Jersey",
+   region: "Northeast",
+   country: "United States",
    alt_population: 855000
-   current_population: 560000
-   peak_population: 560000
+   current_population: 310000
+   peak_population: 320000
+   peak_population_year: 1930
    },
    {
    rank 56,
-   city: Raleigh,
-   state: North Carolina,
-   region: Southeast,
-   country: United States,
-   alt_population: 844000
-   current_population: 520000
-   peak_population: 520000
+   city: "Fresno",
+   state: "California",
+   region: "West",
+   country: "United States",
+   alt_population: 855000
+   current_population: 560000
+   peak_population: 560000
+   peak_population_year: null
    },
    {
    rank 57,
-   city: Omaha,
-   state: Nebraska,
-   region: Midwest,
-   country: United States,
+   city: "Raleigh",
+   state: "North Carolina",
+   region: "Southeast",
+   country: "United States",
+   alt_population: 844000
+   current_population: 520000
+   peak_population: 520000
+   peak_population_year: null
+   },
+   {
+   rank 58,
+   city: "Omaha",
+   state: "Nebraska",
+   region: "Midwest",
+   country: "United States",
    alt_population: 842000
    current_population: 490000
    peak_population: 500000
    },
    {
-   rank 58,
-   city: Tucson,
-   state: Arizona,
-   region: Southwest,
-   country: United States,
+   rank 59,
+   city: "Tucson",
+   state: "Arizona",
+   region: "Southwest",
+   country: "United States",
    alt_population: 837000
    current_population: 550000
    peak_population: 560000
-   },
-   {
-   rank 59,
-   city: Sacramento,
-   state: California,
-   region: West,
-   country: United States,
-   alt_population: 816000
-   current_population: 540000
-   peak_population: 540000
+   peak_population_year: null
    },
    {
    rank 60,
-   city: Toledo,
-   state: Ohio,
-   region: Midwest,
-   country: United States,
-   alt_population: 807000
-   current_population: 270000
-   peak_population: 390000
+   city: "Sacramento",
+   state: "California",
+   region: "West",
+   country: "United States",
+   alt_population: 816000
+   current_population: 540000
+   peak_population: 540000
+   peak_population_year: null
    },
    {
    rank 61,
-   city: Norfolk,
-   state: Virginia,
-   region: Southeast,
-   country: United States,
-   alt_population: 785000
-   current_population: 230000
-   peak_population: 310000
+   city: "Toledo",
+   state: "Ohio",
+   region: "Midwest",
+   country: "United States",
+   alt_population: 807000
+   current_population: 270000
+   peak_population: 390000
+   peak_population_year: 1970
    },
    {
    rank 62,
-   city: Hartford,
-   state: Connecticut,
-   region: Northeast,
-   country: United States,
-   alt_population: 784000
-   current_population: 130000
-   peak_population: 180000
+   city: "Norfolk",
+   state: "Virginia",
+   region: "Southeast",
+   country: "United States",
+   alt_population: 785000
+   current_population: 230000
+   peak_population: 310000
+   peak_population_year: 1970
    },
    {
    rank 63,
-   city: Salt Lake City,
-   state: Utah,
-   region: West,
-   country: United States,
+   city: "Hartford",
+   state: "Connecticut",
+   region: "Northeast",
+   country: "United States",
    alt_population: 784000
-   current_population: 230000
-   peak_population: 230000
+   current_population: 130000
+   peak_population: 180000
+   peak_population_year: 1950
    },
    {
    rank 64,
-   city: St. Paul,
-   state: Minnesota,
-   region: Midwest,
-   country: United States,
+   city: "Salt Lake City",
+   state: "Utah",
+   region: "West",
+   country: "United States",
+   alt_population: 784000
+   current_population: 230000
+   peak_population: 230000
+   peak_population_year: null
+   },
+   {
+   rank 65,
+   city: "St. Paul",
+   state: "Minnesota",
+   region: "Midwest",
+   country: "United States",
    alt_population: 781000
    current_population: 310000
    peak_population: 320000
+   peak_population_year: 1960
    },
    {
-   rank: 65,
-   city: Colorado Springs
+   rank: 66,
+   city: "Colorado Springs",
    state: Colorado,
    region: West,
    country: United States,
