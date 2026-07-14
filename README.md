@@ -1,356 +1,390 @@
 # alt-city-population-mod
-# Attention: Some of the current populations or peak populations may appear to be inaccurate; sometimes they include all boroughs, and also rounding to the nearest number, and please enjoy
+# This was out of curiosity 
 
 # !!! BIG POPULATION ALTERNATIVE PROJECTIONS!!!
 
 const cities = [
   {
    rank: 1,
-   city: New York City,
-   state: New York,
-   region: Northeast,
-   country: United States,
+   city: "New York City",
+   state: "New York",
+   region: "Northeast",
+   country: "United States",
    alt_population: 17850000
    current_population: 8580000
-   peak_population: 9520000
+   peak_population: 8805000
+   peak_population_year: 2020
   },
    {
    rank: 2,
-   city: Chicago,
-   state: Illinois,
-   region: Midwest,
-   country: United States,
+   city: "Chicago",
+   state: "Illinois",
+   region: "Midwest",
+   country: "United States",
    alt_population: 7560000
    current_population: 2730000
-   peak_population: 3626000
+   peak_population: 3622000
+   peak_population_year: 1950
   },
    {
    rank: 3,
-   city: Los Angeles,
-   state: California,
-   region: West,
-   country: United States,
+   city: "Los Angeles",
+   state: "California",
+   region: "West",
+   country: "United States",
    alt_population: 5530000
    current_population: 3871000
-   peak_population: 3920000
+   peak_population: 3980000
+   peak_population_year: 2020
   },
    {
    rank: 4,
-   city: Detroit,
-   state: Michigan,
-   region: Midwest,
-   country: United States,
+   city: "Detroit",
+   state: "Michigan",
+   region: "Midwest",
+   country: "United States",
    alt_population: 41510000 
    current_population: 651000
-   peak_population: 1855000
+   peak_population: 1850000
+   peak_population_year: 1950
   },
   {
    rank: 5,
-   city: Houston,
-   state: Texas,
-   region: Southwest,
-   country: United States,
+   city: "Houston",
+   state: "Texas",
+   region: "Southwest",
+   country: "United States",
    alt_population: 3621000  
    current_population: 2420000
-   peak_population: 2420000
+   peak_population_year: null
   },
    {
    rank: 6,
-   city: Philadelphia,
-   state: Pennsylvania,
-   region: Northeast,
-   country: United States,
+   city: "Philadelphia",
+   state: "Pennsylvania",
+   region: "Northeast",
+   country: "United States",
    alt_population: 3500000
    current_population: 1574000
    peak_population: 2072000
+   peak_population_year: 1950
   },
    {
    rank: 7, 
-   city: Phoenix,
-   state: Arizona,
-   region: Southwest,
-   country: United States,
+   city: "Phoenix",
+   state: "Arizona",
+   region: "Southwest",
+   country: "United States",
    alt_population: 2506000
    current_population: 1680000
    peak_population: 1680000
+   peak_population_year: null
   },
   {
    rank: 8, 
-   city: San Diego,
-   state: California,
-   region: West,
-   country: United States,
+   city: "San Diego",
+   state: "California",
+   region: "West",
+   country: "United States",
    alt_population: 2184000  
    current_population: 1410000
    peak_population: 1420000
+   peak_population_year: null
   },
    {
    rank: 9,
-   city: San Antonio,
-   state: Texas,
-   region: Southwest,
-   country: United States,
+   city: "San Antonio",
+   state: "Texas",
+   region: "Southwest",
+   country: "United States",
    alt_population: 2121000
    current_population: 1580000
    peak_population: 1580000
+   peak_population_year: null
   },
    {
    rank: 10,
-   city: Cleveland,
-   state: Ohio,
-   region: Midwest,
-   country: United States,
+   city: "Cleveland",
+   state: "Ohio",
+   region: "Midwest",
+   country: "United States",
    alt_population: 2072000
    current_population: 370000
    peak_population: 920000
+   peak_population_year: 1950
   },
    {
    rank: 11, 
-   city: Dallas,
-   state: Texas,
-   region: Southwest,
-   country: United States,
+   city: "Dallas",
+   state: "Texas",
+   region: "Southwest",
+   country: "United States",
    alt_population: 1876000
    current_population: 1340000
    peak_population: 1350000
+   peak_population_year: 2019
   },
     {
    rank: 12,
-   city: Jacksonville,
-   state: Florida,
-   region: Southeast,
-   country: United States,
+   city: "Jacksonville",
+   state: "Florida",
+   region: "Southeast",
+   country: "United States",
    alt_population: 1834000
    current_population: 1040000
    peak_population: 1040000
+   peak_population_year: null
    },
    {
    rank: 13,
-   city: St. Louis, 
-   state: Missouri,
-   region: Midwest,
-   country: United States,
+   city: "St. Louis", 
+   state: "Missouri",
+   region: "Midwest",
+   country: "United States",
    alt_population: 1806000
    current_population: 280000
    peak_population: 860000
+   peak_population_year: 1950
   },
    {
    rank: 14,
-   city: Baltimore,
-   state: Maryland,
-   region: Northeast,
-   country: United States,
+   city: "Baltimore",
+   state: "Maryland",
+   region: "Northeast",
+   country: "United States",
    alt_population: 1640000
    current_population: 570000
    peak_population: 950000
+   peak_population_year: 1950
   },
    {
    rank: 15,
-   city: Washington DC,
-   state: District of Columbia,
-   region: Northeast
-   country: United States,
+   city: "Washington DC",
+   state: "District of Columbia",
+   region: "Northeast",
+   country: "United States",
    alt_population: 1631000
    current_population: 700000 
-   peak_population: 810000
+   peak_population: 802000
+   peak_population_year: 1950
   },
    {
    rank: 16,
-   city: Miami,
-   state: Florida,
-   region: Southeast,
-   country: United States,
+   city: "Miami",
+   state: "Florida",
+   region: "Southeast",
+   country: "United States",
    alt_population: 1617000
    current_population: 500000
    peak_population: 500000
+   peak_population_year: null
   },
   {
    rank: 17, 
-   city: Charlotte,
-   state: North Carolina,
-   region: Southeast,
-   country: United States,
+   city: "Charlotte",
+   state: "North Carolina",
+   region: "Southeast",
+   country: "United States",
    alt_population: 1584000
    current_population: 990000
    peak_population: 990000
+   peak_population_year: null
   },
   {
    rank: 18, 
-   city: San Francisco, 
-   state: California,
-   region: West,
-   country: United States,
+   city: "San Francisco", 
+   state: "California",
+   region: "West",
+   country: "United States",
    alt_population: 1512000
    current_population: 810000
-   peak_population: 880000
+   peak_population: 882000
+   peak_population_year: 2019
   },
    {
    rank: 19,
-   city: Boston,
-   state: Massachusetts,
-   region: Northeast,
-   country: United States, 
+   city: "Boston",
+   state: "Massachusetts",
+   region: "Northeast",
+   country: "United States", 
    alt_population: 1445000
    current_population: 680000
    peak_population: 810000
+   peak_population_year: 1950
   },
    {
    rank: 20,
-   city: Seattle,
-   state: Washington
-   region: West,
-   country: United States,
+   city: "Seattle",
+   state: "Washington",
+   region: "West",
+   country: "United States",
    alt_population: 1381000
    current_population: 800000
    peak_population: 800000
+   peak_population_year: null
   },
    rank 20,
-   city: Memphis,
-   state: Tennessee,
-   region: Southeast,
-   country: United States,
+   city: "Memphis",
+   state: "Tennessee",
+   region: "Southeast",
+   country: "United States",
    alt_population: 1283000
    current_population: 610000
-   peak_population: 660000
+   peak_population: 689000
+   peak_population_year: 2000
   },
    {
    rank: 21,
-   city: Newark,
-   state: New Jersey,
-   region: Northeast,
-   country: United States,
+   city: "Newark",
+   state: "New Jersey",
+   region: "Northeast",
+   country: "United States",
    alt_population: 1265000
    current_population: 330000
    peak_population: 450000
+   peak_population_year: 1950
   },
    {
    rank: 22,
-   city: Fort Worth,
-   state: Texas,
-   region: Southwest
-   country: United States,
+   city: "Fort Worth",
+   state: "Texas",
+   region: "Southwest",
+   country: "United States",
    alt_population: 1264000
    current_population: 1050000
    peak_population: 1050000
+   peak_population_year: null
   },
    {
    rank: 23, 
-   city: Pittsburgh,
-   state: Pennsylvania, 
-   region: Northeast,
-   country: United States,
+   city: "Pittsburgh",
+   state: "Pennsylvania", 
+   region: "Northeast",
+   country: "United States",
    alt_population: 1246000
    current_population: 310000
    peak_population: 680000
+   peak_population_year: 1950 
   },
    {
    rank: 24,
-   city: Nashville,
-   state: Tennessee,
-   region: Southeast,
-   country: United States,
+   city: "Nashville",
+   state: "Tennessee",
+   region: "Southeast",
+   country: "United States",
    alt_population: 1240000
    current_population: 730000
    peak_population: 730000
+   peak_population_year: null 
    {
    rank: 25,
-   city: San Jose,
-   state: California,
-   region: West,
-   country: United States,
+   city: "San Jose",
+   state: "California",
+   region: "West",
+   country: "United States",
    alt_population: 1225000
    current_population: 980000
    peak_population: 1030000
+   peak_population_year: 2017 
   },
     {
    rank: 26, 
-   city: New Orleans,
-   state: Louisiana,
-   region: Southeast,
-   country: United States,
+   city: "New Orleans",
+   state: "Louisiana",
+   region: "Southeast",
+   country: "United States",
    alt_population: 1211000
    current_population: 355000
    peak_population: 630000
+   peak_population_year: 1960 
   },
    {
    rank: 27, 
-   city: Austin,
-   state: Texas,
-   region: Southwest,
-   country: United States,
+   city: "Austin",
+   state: "Texas",
+   region: "Southwest",
+   country: "United States",
    alt_population: 1207000
    current_population: 1020000
    peak_population: 1020000
+   peak_population_year: null
   },
    {
    rank: 28, 
-   city: Indianapolis,
-   state: Indiana,
-   region: Midwest,
-   country: United States,
+   city: "Indianapolis",
+   state: "Indiana",
+   region: "Midwest",
+   country: "United States",
    alt_population: 1204000
    current_population: 910000
    peak_population: 910000
+   peak_population_year: null 
   },
    {
    rank: 29, 
-   city: Columbus,
-   state: Ohio,
-   region: Midwest,
-   country: United States,
+   city: "Columbus",
+   state: "Ohio",
+   region: "Midwest",
+   country: "United States",
    alt_population: 1201000
    current_population: 950000
    peak_population: 950000
+   peak_population_year: null 
   },
    {
    rank: 30, 
-   city: Milwaukee,
-   state: Wisconsin,
-   region: Midwest,
-   country: United States,
+   city: "Milwaukee",
+   state: "Wisconsin",
+   region: "Midwest",
+   country: "United States",
    alt_population: 1191000
    current_population: 555000
-   peak_population: 750000
+   peak_population: 742000
+   peak_population_year: 1960 
   },
    {
    rank: 31,
-   city: Atlanta,
-   state: Georgia,
-   region: Southeast,
-   country: United States,
+   city: "Atlanta",
+   state: "Georgia",
+   region: "Southeast",
+   country: "United States",
    alt_population: 1181000
    current_population: 540000
    peak_population: 540000
+   peak_population_year: null
   },
    {
    rank: 32, 
-   city: Las Vegas,
-   state: Nevada,
-   region: West,
-   country: United States,
+   city: "Las Vegas",
+   state: "Nevada",
+   region: "West",
+   country: "United States",
    alt_population: 1180000
    current_population: 690000
    peak_population: 690000
+   peak_population_year: null
   },
   {
    rank: 33, 
-   city: Louisville,
-   state: Kentucky,
-   region: Southeast,
-   country: United States,
+   city: "Louisville",
+   state: "Kentucky",
+   region: "Southeast",
+   country: "United States",
    alt_population: 1165000
    current_population: 650000
    peak_population: 650000
+   peak_population_year: null 
   },
    {
    rank: 34,
-   city: Minneapolis,
-   state: Minnesota,
-   region: Midwest,
-   country: United States,
+   city: "Minneapolis",
+   state: "Minnesota",
+   region: "Midwest",
+   country: "United States",
    alt_population: 1122000
    current_population: 435000
    peak_population: 530000
+   peak_population_year: 1950
   },
    {
    rank: 35, 
