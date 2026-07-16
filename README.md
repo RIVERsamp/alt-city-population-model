@@ -720,350 +720,387 @@ const cities = [
    {
    rank: 66,
    city: "Colorado Springs",
-   state: Colorado,
-   region: West,
-   country: United States,
+   state: "Colorado",
+   region: "West",
+   country: "United States",
    alt_populaton: 771000
    current_population: 500000
    peak_population: 500000
+   peak_population_year: null
    },
    {
    rank 67,
-   city: Anchorage,
-   state: Alaska,
-   region: West,
-   country: United States,
+   city: "Anchorage",
+   state: "Alaska",
+   region: "West",
+   country: "United States",
    alt_population: 762000
    current_population: 290000
    peak_population: 310000
+   peak_population_year: 2014
    },
    {
    rank 68,
-   city: Providence,
-   state: Rhode Island,
-   region: Northeast,
-   country: United States,
+   city: "Providence",
+   state: "Rhode Island",
+   region: "Northeast",
+   country: "United States",
    alt_population: 760000
    current_population: 200000
    peak_population: 260000
+   peak_population_year: 1940
    },
    {
    rank 69,
-   city: Little Rock,
-   state: Arkansas,
-   region: Southeast,
-   country: United States,
+   city: "Little Rock",
+   state: "Arkansas",
+   region: "Southeast",
+   country: "United States",
    alt_population: 750000
    current_population: 210000
    peak_population: 210000
+   peak_population_year: null
    },
    {
    rank 70,
-   city: Syracuse,
-   state: New York,
-   region: Northeast,
-   country: United States,
+   city: "Syracuse",
+   state: "New York",
+   region: "Northeast",
+   country: "United States",
    alt_population: 716000
    current_population: 150000
    peak_population: 230000
+   peak_population_year: 1950
    },
    {
    rank 71,
-   city: Boise,
-   state: Idaho,
-   region: West,
-   country: United States,
+   city: "Boise",
+   state: "Idaho",
+   region: "West",
+   country: "United States",
    alt_population: 681000
    current_population: 240000
    peak_population: 240000
+   peak_population_year: null
    },
    {
    rank 72,
-   city: Santa Ana,
-   state: California,
-   region: West,
-   country: United States,
+   city: "Santa Ana",
+   state: "California",
+   region: "West",
+   country: "United States",
    alt_population: 676000
    current_population: 320000
    peak_population: 340000
+   peak_population_year: 2009
    },
    {
    rank 73,
-   city: Charleston,
-   state: South Carolina,
-   region: Southeast,
-   country: United States,
+   city: "Charleston",
+   state: "South Carolina",
+   region: "Southeast",
+   country: "United States",
    alt_population: 672000
    current_population: 170000
    peak_population: 170000
+   peak_population_year: null
    },
    {
    rank: 74,
-   city: Jackson,
-   state: Mississippi,
-   region: Southeast,
-   country: United States,
+   city: "Jackson",
+   state: "Mississippi",
+   region: "Southeast",
+   country: "United States",
    alt_population: 670000
    current_population: 140000
    peak_population: 210000
+   peak_population_year: 1980
    },
    {
    rank 75,
-   city: Portland,
-   state: Maine,
-   region: Northeast,
-   country: United States,
+   city: "Portland",
+   state: "Maine",
+   region: "Northeast",
+   country: "United States",
    alt_population: 665000
    current_population: 70000
    peak_population: 80000
+   peak_population_year: 1950
    },
    {
    rank 76,
-   city: Spokane,
-   state: Washington,
-   region: West,
-   country: United States,
+   city: "Spokane",
+   state: "Washington",
+   region: "West",
+   country: "United States",
    alt_population: 665000
    current_population: 240000
    peak_population: 240000
+   peak_population_year: null
    },
    {
    rank 77,
-   city: Akron,
-   state: Ohio,
-   region: Midwest,
-   country: United States,
+   city: "Akron",
+   state: "Ohio",
+   region: "Midwest",
+   country: "United States",
    alt_population: 658000
    current_population: 190000
    peak_population: 300000
+   peak_population_year: 1960
    },
    {
-   rank 81,
-   city: Worcester,
-   state: Massachusetts,
-   region: Northeast,
-   country: United States,
+   rank 78,
+   city: "Worcester",
+   state: "Massachusetts",
+   region: "Northeast",
+   country: "United States",
    alt_population: 655000
    current_population: 220000
    peak_population: 220000
+   peak_population_year: 2020
    },
    {
-   rank 82,
-   city: Dayton,
-   state: Ohio,
-   region: Midwest,
-   country: United States,
+   rank 79,
+   city: "Dayton",
+   state: "Ohio",
+   region: "Midwest",
+   country: "United States",
    alt_population: 654000
    current_population: 140000
    peak_population: 270000
+   peak_population_year: 1960
    },
    {
-   rank 83,
-   city: Arlington,
-   state: Texas,
-   region: Southwest,
+   rank 80,
+   city: "Arlington",
+   state: "Texas",
+   region: "Southwest",
+   country: "United States",
    alt_population: 659000
    current_population: 410000
    peak_population: 410000
+   peak_population_year: null
    },
    {
-   rank 84,
-   city: Anaheim,
-   state: California,
-   region: West,
-   country: United States,
+   rank 81,
+   city: "Anaheim",
+   state: "California",
+   region: "West",
+   country: "United States",
    alt_population: 637000
    current_population: 340000
    peak_population: 360000
+   peak_population_year: 2019
    },
    {
-   rank 85,
-   city: Madison,
-   state: Wisconsin,
-   region: Midwest,
-   country: United States,
+   rank 82,
+   city: "Madison",
+   state: "Wisconsin",
+   region: "Midwest",
+   country: "United States",
    alt_population: 632000
    current_population: 290000
    peak_population: 290000
+   peak_population_year: null
    },
    {
-   rank 86,
-   city: Sioux Falls,
-   state: South Dakota,
-   region: Midwest,
-   country: United States,
+   rank 83,
+   city: "Sioux Falls",
+   state: "South Dakota",
+   region: "Midwest",
+   country: "United States",
    alt_population: 602000
    current_population: 220000
    peak_population: 220000
+   peak_population_year: null
    },
    {
-   rank 87,
-   city: Richmond,
-   state: Virginia,
-   region: Southeast,
-   country: United States,
+   rank 84,
+   city: "Richmond",
+   state: "Virginia",
+   region: "Southeast",
+   country: "United States",
    alt_population: 601000
    current_population: 240000
    peak_population: 250000
+   peak_population_year: 1970
    },
    {
-   rank 88,
-   city: Grand Rapids,
-   state: Michigan,
-   region: Midwest,
-   country: United States,
+   rank 85,
+   city: "Grand Rapids",
+   state: "Michigan",
+   region: "Midwest",
+   country: "United States",
    alt_population: 596000
    current_population: 210000
    peak_population: 210000
+   peak_population_year: 2019
    },
    {
-   rank 89,
-   city: Charleston,
-   state: West Virginia,
-   region: Southeast,
-   country: United States,
+   rank 86,
+   city: "Charleston",
+   state: "West Virginia",
+   region: "Southeast",
+   country: "United States",
    alt_population: 595000
    current_population: 50000
    peak_population: 90000
+   peak_population_year: 1960
    },
    {
-   rank 90,
-   city: Aurora,
-   state: Colorado,
-   region: West,
-   country: United States,
+   rank 87,
+   city: "Aurora",
+   state: "Colorado",
+   region: "West",
+   country: "United States",
    alt_population: 588000
    current_population: 420000
    peak_population: 420000
+   peak_population_year: null
    },
    {
-   rank 91,
-   city: Lexington,
-   state: Kentucky,
-   region: Southeast,
-   country: United States,
+   rank 88,
+   city: "Lexington",
+   state: "Kentucky",
+   region: "Southeast",
+   country: "United States",
    alt_population: 582000
    current_population: 340000
    peak_population: 340000
+   peak_population_year: null
    },
    {
-   rank 92,
-   city: Orlando,
-   state: Florida,
-   region: Southeast,
-   country: United States,
+   rank 89,
+   city: "Orlando",
+   state: "Florida",
+   region: "Southeast",
+   country: "United States",
    alt_population: 574000
    current_population: 350000
    peak_population: 350000
+   peak_population_year: null
    },
    {
-   rank 93,
-   city: Mobile,
-   state: Alabama,
-   region: Southeast,
+   rank 90,
+   city: "Mobile,
+   state: "Alabama",
+   region: "Southeast",
+   country: "United States",
    alt_population: 532000
    current_population: 200000
    peak_population: 210000
+   peak_population_year: 1960
    },
    {
-   rank 94,
-   city: Mesa,
-   state: Arizona,
-   region: Southwest,
-   country: United States,
+   rank 91,
+   city: "Mesa",
+   state: "Arizona",
+   region: "Southwest",
+   country: "United States",
    alt_population: 572000
    current_population: 520000
    peak_population: 520000
+   peak_population_year: 2019
    },
    {
-   rank 95,
-   city: Billings,
-   state: Montana,
-   region: West,
-   country: United States,
+   rank 92,
+   city: "Billings",
+   state: "Montana",
+   region: "West",
+   country: "United States",
    alt_population: 568000
    current_population: 130000
    peak_population: 130000
+   peak_population_year: null
    },
    {
-   rank 97,
-   city: Flint,
-   state: Michigan,
-   region: Midwest,
-   country: United States,
+   rank 93,
+   city: "Flint",
+   state: "Michigan",
+   region: "Midwest",
+   country: "United States",
    alt_population: 567000
    current_population: 80000
    peak_population: 200000
+   peak_population_year: 1960
    },
    {
-   rank 98,
-   city: Corpus Christi,
-   state: Texas,
-   region: Southwest,
-   country: United States,
+   rank 94,
+   city: "Corpus Christi",
+   state: "Texas",
+   region: "Southwest",
+   country: "United States",
    alt_population: 551000
    current_population: 330000
    peak_population: 330000
+   peak_population_year: null
    },
    {
-   rank 99,
-   city: Riverside,
-   state: California,
-   region: West,
-   country: United States
+   rank 95,
+   city: "Riverside",
+   state: "California",
+   region: "West",
+   country: "United States",
    alt_population: 542000
    current_population: 330000
    peak_population: 330000
+   peak_population_year: null
    },
    {
-   rank 100,
-   city: Savannah,
-   state: Georgia,
-   region: Southeast,
-   country: United States,
+   rank 96,
+   city: "Savannah",
+   state: "Georgia",
+   region: "Southeast",
+   country: "United States",
    alt_population: 542000
    current_population: 150000
    peak_population: 160000
+   peak_population_year: 1960
    },
    {
-   rank 101,
-   city: Bakersfield,
-   state: California,
-   region: West,
-   county: United States,
+   rank 97,
+   city: "Bakersfield",
+   state: "California",
+   region: "West",
+   county: "United States",
    alt_population: 539000
    current_population: 430000
    peak_population: 430000
+   peak_population_year: null
    },
    {
-   rank 102,
-   city: Reno,
-   state: Nevada,
-   region: West,
-   country: United States,
+   rank 98,
+   city: "Reno",
+   state: "Nevada",
+   region: "West",
+   country: "United States",
    alt_population: 535000
    current_population: 290000
    peak_population: 290000
+   peak_population_year: null
    },
    {
-   rank 103,
-   city: Stockton,
-   state: California,
-   region: West,
-   country: United States,
+   rank 99,
+   city: "Stockton",
+   state: "California",
+   region: "West",
+   country: "United States",
    alt_population: 534000
    current_population: 330000
    peak_population: 330000
+   peak_population_year: null
    },
    {
-   rank 104,
-   city: Henderson,
-   state: Nevada,
-   region: West,
-   country: United States,
+   rank 100,
+   city: "Henderson",
+   state: "Nevada",
+   region: "West",
+   country: "United States",
    alt_population: 501000
    current_population: 370000
    peak_population: 370000
+   peak_population_year: null
    },
    
 ];
