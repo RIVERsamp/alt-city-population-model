@@ -1,5 +1,12 @@
-# alt-city-population-mod
-# This was out of curiosity 
+# Alternative U.S. City Population Model
+
+## Overview
+This project explores what the populations of major U.S. cities might be today if historical population declines had not occurred.
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
 
 # !!! BIG POPULATION ALTERNATIVE PROJECTIONS!!!
 
