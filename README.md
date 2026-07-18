@@ -483,8 +483,19 @@ const cities = [
    peak_population: 220000
    peak_population_year: 2017
    },
-    {
+   {
    rank 44,
+   city: "Virginia Beach",
+   state: "Virginia",
+   region: "Southeast",
+   country: "United States",
+   alt_population: 1015000
+   current_population: 450000
+   peak_population: 460000
+   peak_population_year: 1970
+   },
+    {
+   rank 45,
    city: "Cincinnati",
    state: "Ohio",
    region: "Midwest",
@@ -495,7 +506,7 @@ const cities = [
    peak_population_year: 1950
    },
    {
-   rank 45,
+   rank 46,
    city: "Long Beach",
    state: "California",
    region: "West",
@@ -506,7 +517,7 @@ const cities = [
    peak_population_year: 2015
    },
     {
-   rank 46,
+   rank 47,
    city: "Oakland",
    state: "California",
    region: "West",
@@ -517,7 +528,7 @@ const cities = [
    peak_population_year: null
    },
    {
-   rank 47,
+   rank 48,
    city: "El Paso",
    state: "Texas",
    region: "Southwest",
@@ -528,7 +539,7 @@ const cities = [
    peak_population_year: null
    },
     {
-   rank 48,
+   rank 49,
    city: "New Haven", 
    state: "Connecticut",
    region: "Northeast",
@@ -539,7 +550,7 @@ const cities = [
    peak_population_year: 1950
    },
    {
-   rank 49,
+   rank 50,
    city: "Tulsa",
    state: "Oklahoma",
    region: "Southwest",
@@ -547,17 +558,6 @@ const cities = [
    alt_population: 931000
    current_population: 420000
    peak_population: 420000
-   peak_population_year: null
-   },
-   {
-   rank 50,
-   city: "Virginia Beach",
-   state: "Virginia",
-   region: "Southeast",
-   country: "United States",
-   alt_population: 929000
-   current_population: 450000
-   peak_population: 460000
    peak_population_year: null
    },
    {
