@@ -137,7 +137,7 @@ const cities = [
    state: "Florida",
    region: "Southeast",
    country: "United States",
-   alt_population: 1834000
+   alt_population: 1841000
    current_population: 1040000
    peak_population: 1040000
    peak_population_year: null
@@ -148,7 +148,7 @@ const cities = [
    state: "Missouri",
    region: "Midwest",
    country: "United States",
-   alt_population: 1806000
+   alt_population: 1834000
    current_population: 280000
    peak_population: 860000
    peak_population_year: 1950
@@ -170,7 +170,7 @@ const cities = [
    state: "District of Columbia",
    region: "Northeast",
    country: "United States",
-   alt_population: 1631000
+   alt_population: 1634000
    current_population: 700000 
    peak_population: 802000
    peak_population_year: 1950
@@ -181,7 +181,7 @@ const cities = [
    state: "Florida",
    region: "Southeast",
    country: "United States",
-   alt_population: 1617000
+   alt_population: 1622000
    current_population: 500000
    peak_population: 500000
    peak_population_year: null
@@ -192,7 +192,7 @@ const cities = [
    state: "North Carolina",
    region: "Southeast",
    country: "United States",
-   alt_population: 1584000
+   alt_population: 1610000
    current_population: 990000
    peak_population: 990000
    peak_population_year: null
@@ -225,7 +225,7 @@ const cities = [
    state: "Washington",
    region: "West",
    country: "United States",
-   alt_population: 1381000
+   alt_population: 1402000
    current_population: 800000
    peak_population: 800000
    peak_population_year: null
@@ -236,7 +236,7 @@ const cities = [
    state: "Tennessee",
    region: "Southeast",
    country: "United States",
-   alt_population: 1283000
+   alt_population: 1301000
    current_population: 610000
    peak_population: 689000
    peak_population_year: 2000
@@ -247,13 +247,24 @@ const cities = [
    state: "New Jersey",
    region: "Northeast",
    country: "United States",
-   alt_population: 1265000
+   alt_population: 1275000
    current_population: 330000
    peak_population: 450000
    peak_population_year: 1950
   },
    {
    rank: 23,
+   city: "Atlanta",
+   state: "Georgia",
+   region: "Southeast",
+   country: "United States",
+   alt_population: 1267000
+   current_population: 540000
+   peak_population: 540000
+   peak_population_year: null
+  },
+   {
+   rank: 24,
    city: "Fort Worth",
    state: "Texas",
    region: "Southwest",
@@ -264,7 +275,29 @@ const cities = [
    peak_population_year: null
   },
    {
-   rank: 24, 
+   rank: 25,
+   city: "Nashville",
+   state: "Tennessee",
+   region: "Southeast",
+   country: "United States",
+   alt_population: 1260000
+   current_population: 730000
+   peak_population: 730000
+   peak_population_year: null 
+   },
+   {
+   rank: 26, 
+   city: "Columbus",
+   state: "Ohio",
+   region: "Midwest",
+   country: "United States",
+   alt_population: 1250000
+   current_population: 950000
+   peak_population: 950000
+   peak_population_year: null 
+  },
+   {
+   rank: 27, 
    city: "Pittsburgh",
    state: "Pennsylvania", 
    region: "Northeast",
@@ -275,18 +308,7 @@ const cities = [
    peak_population_year: 1950 
   },
    {
-   rank: 25,
-   city: "Nashville",
-   state: "Tennessee",
-   region: "Southeast",
-   country: "United States",
-   alt_population: 1240000
-   current_population: 730000
-   peak_population: 730000
-   peak_population_year: null 
-   },
-   {
-   rank: 26,
+   rank: 28,
    city: "San Jose",
    state: "California",
    region: "West",
@@ -297,18 +319,18 @@ const cities = [
    peak_population_year: 2017 
   },
     {
-   rank: 27, 
+   rank: 29, 
    city: "New Orleans",
    state: "Louisiana",
    region: "Southeast",
    country: "United States",
-   alt_population: 1211000
+   alt_population: 1215000
    current_population: 355000
    peak_population: 630000
    peak_population_year: 1960 
   },
    {
-   rank: 28, 
+   rank: 30, 
    city: "Austin",
    state: "Texas",
    region: "Southwest",
@@ -319,7 +341,7 @@ const cities = [
    peak_population_year: null
   },
    {
-   rank: 29, 
+   rank: 31, 
    city: "Indianapolis",
    state: "Indiana",
    region: "Midwest",
@@ -330,37 +352,15 @@ const cities = [
    peak_population_year: null 
   },
    {
-   rank: 30, 
-   city: "Columbus",
-   state: "Ohio",
-   region: "Midwest",
-   country: "United States",
-   alt_population: 1201000
-   current_population: 950000
-   peak_population: 950000
-   peak_population_year: null 
-  },
-   {
-   rank: 31, 
+   rank: 32, 
    city: "Milwaukee",
    state: "Wisconsin",
    region: "Midwest",
    country: "United States",
-   alt_population: 1191000
+   alt_population: 1200000
    current_population: 555000
    peak_population: 742000
    peak_population_year: 1960 
-  },
-   {
-   rank: 32,
-   city: "Atlanta",
-   state: "Georgia",
-   region: "Southeast",
-   country: "United States",
-   alt_population: 1181000
-   current_population: 540000
-   peak_population: 540000
-   peak_population_year: null
   },
    {
    rank: 33, 
@@ -379,7 +379,7 @@ const cities = [
    state: "Kentucky",
    region: "Southeast",
    country: "United States",
-   alt_population: 1165000
+   alt_population: 1168000
    current_population: 650000
    peak_population: 650000
    peak_population_year: null 
@@ -390,13 +390,24 @@ const cities = [
    state: "Minnesota",
    region: "Midwest",
    country: "United States",
-   alt_population: 1122000
+   alt_population: 1137000
    current_population: 435000
    peak_population: 530000
    peak_population_year: 1950
   },
    {
    rank: 36, 
+   city: "Denver",
+   state: "Colorado",
+   region: "West",
+   country: "United States",
+   alt_population: 1120000
+   current_population: 750000
+   peak_population: 750000
+   peak_population_year: null
+  },
+   {
+   rank: 37, 
    city: "Buffalo",
    state: "New York",
    region: "Northeast",
@@ -406,24 +417,13 @@ const cities = [
    peak_population: 580000
    peak_population_year: 1950
   },
-   {
-   rank: 37, 
-   city: "Denver",
-   state: "Colorado",
-   region: "West",
-   country: "United States",
-   alt_population: 1100000
-   current_population: 750000
-   peak_population: 750000
-   peak_population_year: null
-  },
     {
    rank: 38, 
    city: "Portland",
    state: "Oregon",
    region: "West",
    country: "United States",
-   alt_population: 1080000
+   alt_population: 1085000
    current_population: 630000
    peak_population: 660000
    peak_population_year: 2020
@@ -474,6 +474,17 @@ const cities = [
    },
    {
    rank 43,
+   city: "Virginia Beach",
+   state: "Virginia",
+   region: "Southeast",
+   country: "United States",
+   alt_population: 1020000
+   current_population: 450000
+   peak_population: 460000
+   peak_population_year: 1970
+   },
+   {
+   rank 44,
    city: "Des Moines",
    state: "Iowa",
    region: "Midwest",
@@ -483,24 +494,13 @@ const cities = [
    peak_population: 220000
    peak_population_year: 2017
    },
-   {
-   rank 44,
-   city: "Virginia Beach",
-   state: "Virginia",
-   region: "Southeast",
-   country: "United States",
-   alt_population: 1015000
-   current_population: 450000
-   peak_population: 460000
-   peak_population_year: 1970
-   },
     {
    rank 45,
    city: "Cincinnati",
    state: "Ohio",
    region: "Midwest",
    country: "United States",
-   alt_population: 1002000
+   alt_population: 1008000
    current_population: 320000
    peak_population: 510000
    peak_population_year: 1950
