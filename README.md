@@ -8,204 +8,222 @@ This project explores what the populations of major U.S. cities might be today i
 - CSS
 - JavaScript
 
-# !!! BIG POPULATION ALTERNATIVE PROJECTIONS!!!
+## Population Data
 
 const cities = [
   {
-   rank: 1,
+   alt_rank: 1,
    city: "New York City",
    state: "New York",
    region: "Northeast",
    country: "United States",
-   alt_population: 17850000
-   current_population: 8580000
-   peak_population: 8805000
+   alt_population: 17_850_000,
+   current_population: 8_580_000,
+   current_population_year: 2026,
+   peak_population: 8_805_000,
    peak_population_year: 2020
   },
    {
-   rank: 2,
+   alt_rank: 2,
    city: "Chicago",
    state: "Illinois",
    region: "Midwest",
    country: "United States",
-   alt_population: 7560000
-   current_population: 2730000
-   peak_population: 3622000
+   alt_population: 7_560_000,
+   current_population: 2_730_000,
+   current_population_year: 2026,
+   peak_population: 3_622_000,
    peak_population_year: 1950
   },
    {
-   rank: 3,
+   alt_rank: 3,
    city: "Los Angeles",
    state: "California",
    region: "West",
    country: "United States",
-   alt_population: 5530000
-   current_population: 3871000
-   peak_population: 3980000
+   alt_population: 5_530_000,
+   current_population: 3_871_000,
+   current_population_year: 2026,
+   peak_population: 3_980_000,
    peak_population_year: 2020
   },
    {
-   rank: 4,
+   alt_rank: 4,
    city: "Detroit",
    state: "Michigan",
    region: "Midwest",
    country: "United States",
-   alt_population: 41510000 
-   current_population: 651000
-   peak_population: 1850000
+   alt_population: 4_151_000, 
+   current_population: 651_000,
+   current_population_year: 2026,
+   peak_population: 1_850_000,
    peak_population_year: 1950
   },
   {
-   rank: 5,
+   alt_rank: 5,
    city: "Houston",
    state: "Texas",
    region: "Southwest",
    country: "United States",
-   alt_population: 3621000  
-   current_population: 2420000
+   alt_population: 3_621_000,  
+   current_population: 2_420_000,
+   current_population_year: 2026,
    peak_population_year: null
   },
    {
-   rank: 6,
+   alt_rank: 6,
    city: "Philadelphia",
    state: "Pennsylvania",
    region: "Northeast",
    country: "United States",
-   alt_population: 3500000
-   current_population: 1574000
-   peak_population: 2072000
+   alt_population: 3_500_000,
+   current_population: 1_574_000,
+   current_population_year: 2026,
+   peak_population: 2_072_000,
    peak_population_year: 1950
   },
    {
-   rank: 7, 
+   alt_rank: 7, 
    city: "Phoenix",
    state: "Arizona",
    region: "Southwest",
    country: "United States",
-   alt_population: 2506000
-   current_population: 1680000
-   peak_population: 1680000
+   alt_population: 2_506_000,
+   current_population: 1_680_000,
+   current_population_year: 2026,
+   peak_population: 1_680_000,
    peak_population_year: null
   },
   {
-   rank: 8, 
+   alt_rank: 8, 
    city: "San Diego",
    state: "California",
    region: "West",
    country: "United States",
-   alt_population: 2184000  
-   current_population: 1410000
-   peak_population: 1420000
+   alt_population: 2_184_000,  
+   current_population: 1_410_000,
+   current_population_year: 2026,
+   peak_population: 1420000,
    peak_population_year: null
   },
    {
-   rank: 9,
+   alt_rank: 9,
    city: "San Antonio",
    state: "Texas",
    region: "Southwest",
    country: "United States",
-   alt_population: 2121000
-   current_population: 1580000
-   peak_population: 1580000
+   alt_population: 2_121_000,
+   current_population: 1_580_000,
+   current_population_year: 2026,
+   peak_population: 1_580_000,
    peak_population_year: null
   },
    {
-   rank: 10,
+   alt_rank: 10,
    city: "Cleveland",
    state: "Ohio",
    region: "Midwest",
    country: "United States",
-   alt_population: 2072000
-   current_population: 370000
-   peak_population: 920000
+   alt_population: 2_072_000,
+   current_population: 370_000,
+   current_population_year: 2026,
+   peak_population: 920_000,
    peak_population_year: 1950
   },
    {
-   rank: 11, 
+   alt_rank: 11, 
    city: "Dallas",
    state: "Texas",
    region: "Southwest",
    country: "United States",
-   alt_population: 1876000
-   current_population: 1340000
-   peak_population: 1350000
+   alt_population: 1_876_000,
+   current_population: 1_340_000,
+   current_population_year: 2026,
+   peak_population: 1_350_000,
    peak_population_year: 2019
   },
     {
-   rank: 12,
+   alt_rank: 12,
    city: "Jacksonville",
    state: "Florida",
    region: "Southeast",
    country: "United States",
-   alt_population: 1841000
-   current_population: 1040000
-   peak_population: 1040000
+   alt_population: 1_841_000,
+   current_population: 1_040_000,
+   current_population_year: 2026,
+   peak_population: null,
    peak_population_year: null
    },
    {
-   rank: 13,
+   alt_rank: 13,
    city: "St. Louis", 
    state: "Missouri",
    region: "Midwest",
    country: "United States",
-   alt_population: 1834000
-   current_population: 280000
-   peak_population: 860000
+   alt_population: 1_834_000,
+   current_population: 280_000,
+   current_population_year: 2026, 
+   peak_population: 860_000,
    peak_population_year: 1950
   },
    {
-   rank: 14,
+   alt_rank: 14,
    city: "Baltimore",
    state: "Maryland",
    region: "Northeast",
    country: "United States",
-   alt_population: 1640000
-   current_population: 570000
-   peak_population: 950000
+   alt_population: 1_640_000,
+   current_population: 570_000,
+   current_population_year: 2026, 
+   peak_population: 950_000,
    peak_population_year: 1950
   },
    {
-   rank: 15,
+   alt_rank: 15,
    city: "Washington DC",
    state: "District of Columbia",
    region: "Northeast",
    country: "United States",
-   alt_population: 1634000
-   current_population: 700000 
-   peak_population: 802000
+   alt_population: 1_634_000,
+   current_population: 700_000,
+   current_population_year: 2026, 
+   peak_population: 802_000,
    peak_population_year: 1950
   },
-   {
-   rank: 16,
+  {
+   alt_rank: 16,
    city: "Miami",
    state: "Florida",
    region: "Southeast",
    country: "United States",
-   alt_population: 1622000
-   current_population: 500000
-   peak_population: 500000
+   alt_population: 1_622_000,
+   current_population: 500_000,
+   current_population_year: 2026,
+   peak_population: null,
    peak_population_year: null
   },
   {
-   rank: 17, 
+   alt_rank: 17, 
    city: "Charlotte",
    state: "North Carolina",
    region: "Southeast",
    country: "United States",
-   alt_population: 1610000
-   current_population: 990000
-   peak_population: 990000
+   alt_population: 1_610_000,
+   current_population: 990_000,
+   current_population_year 2026, 
+   peak_population: null,
    peak_population_year: null
   },
   {
-   rank: 18, 
+   alt_rank: 18, 
    city: "San Francisco", 
    state: "California",
    region: "West",
    country: "United States",
-   alt_population: 1512000
-   current_population: 810000
-   peak_population: 882000
+   alt_population: 1_512_000,
+   current_population: 810_000,
+   current_population_year: 2026, 
+   peak_population: 882_000,
    peak_population_year: 2019
   },
    {
