@@ -227,904 +227,988 @@ const cities = [
    peak_population_year: 2019
   },
    {
-   rank: 19,
+   alt_rank: 19,
    city: "Boston",
    state: "Massachusetts",
    region: "Northeast",
    country: "United States", 
-   alt_population: 1445000
-   current_population: 680000
-   peak_population: 810000
+   alt_population: 1445000,
+   current_population: 680000,
+   current_population_year: 2026,
+   peak_population: 810000,
    peak_population_year: 1950
   },
    {
-   rank: 20,
+   alt_rank: 20,
    city: "Seattle",
    state: "Washington",
    region: "West",
    country: "United States",
-   alt_population: 1402000
-   current_population: 800000
-   peak_population: 800000
+   alt_population: 1402000,
+   current_population: 800000,
+   current_population_year: 2026,
+   peak_population: 800000,
    peak_population_year: null
   },
-  {
-   rank 21,
+   {
+   alt_rank 21,
    city: "Memphis",
    state: "Tennessee",
    region: "Southeast",
    country: "United States",
-   alt_population: 1301000
-   current_population: 610000
-   peak_population: 689000
+   alt_population: 1301000,
+   current_population: 610000,
+   current_population_year: 2026,
+   peak_population: 689000,
    peak_population_year: 2000
   },
    {
-   rank: 22,
+   alt_rank: 22,
    city: "Newark",
    state: "New Jersey",
    region: "Northeast",
    country: "United States",
-   alt_population: 1275000
-   current_population: 330000
-   peak_population: 450000
+   alt_population: 1275000,
+   current_population: 330000,
+   current_population_year: 2026,
+   peak_population: 450000,
    peak_population_year: 1950
   },
    {
-   rank: 23,
+   alt_rank: 23,
    city: "Atlanta",
    state: "Georgia",
    region: "Southeast",
    country: "United States",
-   alt_population: 1267000
-   current_population: 540000
-   peak_population: 540000
+   alt_population: 1267000,
+   current_population: 540000,
+   current_population_year: 2026,
+   peak_population: 540000,
    peak_population_year: null
   },
    {
-   rank: 24,
+   alt_rank: 24,
    city: "Fort Worth",
    state: "Texas",
    region: "Southwest",
    country: "United States",
-   alt_population: 1264000
-   current_population: 1050000
-   peak_population: 1050000
+   alt_population: 1264000,
+   current_population: 1050000,
+   current_population_year: 2026,
+   peak_population: 1050000,
    peak_population_year: null
   },
    {
-   rank: 25,
+   alt_rank: 25,
    city: "Nashville",
    state: "Tennessee",
    region: "Southeast",
    country: "United States",
-   alt_population: 1260000
-   current_population: 730000
-   peak_population: 730000
+   alt_population: 1260000,
+   current_population: 730000,
+   current_population_year: 2026,
+   peak_population: 730000,
    peak_population_year: null 
    },
    {
-   rank: 26, 
+   alt_rank: 26, 
    city: "Columbus",
    state: "Ohio",
    region: "Midwest",
    country: "United States",
-   alt_population: 1250000
-   current_population: 950000
-   peak_population: 950000
+   alt_population: 1250000,
+   current_population: 950000,
+   current_population_year: 2026,
+   peak_population: 950000,
    peak_population_year: null 
-  },
+   },
    {
-   rank: 27, 
+   alt_rank: 27, 
    city: "Pittsburgh",
    state: "Pennsylvania", 
    region: "Northeast",
    country: "United States",
-   alt_population: 1246000
-   current_population: 310000
-   peak_population: 680000
+   alt_population: 1246000,
+   current_population: 310000,
+   current_population_year: 2026,
+   peak_population: 680000,
    peak_population_year: 1950 
-  },
+   },
    {
-   rank: 28,
+   alt_rank: 28,
    city: "San Jose",
    state: "California",
    region: "West",
    country: "United States",
-   alt_population: 1225000
-   current_population: 980000
-   peak_population: 1030000
+   alt_population: 1225000,
+   current_population: 980000,
+   current_population_year: 2026,
+   peak_population: 1030000,
    peak_population_year: 2017 
-  },
-    {
-   rank: 29, 
+   },
+   {
+   alt_rank: 29, 
    city: "New Orleans",
    state: "Louisiana",
    region: "Southeast",
    country: "United States",
-   alt_population: 1215000
-   current_population: 355000
-   peak_population: 630000
+   alt_population: 1215000,
+   current_population: 355000,
+   current_population_year: 2026,
+   peak_population: 630000,
    peak_population_year: 1960 
-  },
+   },
    {
-   rank: 30, 
+   alt_rank: 30, 
    city: "Austin",
    state: "Texas",
    region: "Southwest",
    country: "United States",
-   alt_population: 1207000
-   current_population: 1020000
-   peak_population: 1020000
+   alt_population: 1207000,
+   current_population: 1020000,
+   current_population_year: 2026,
+   peak_population: 1020000,
    peak_population_year: null
-  },
+   },
    {
-   rank: 31, 
+   alt_rank: 31, 
    city: "Indianapolis",
    state: "Indiana",
    region: "Midwest",
    country: "United States",
-   alt_population: 1204000
-   current_population: 910000
-   peak_population: 910000
+   alt_population: 1204000,
+   current_population: 910000,
+   current_population_year: 2026,
+   peak_population: 910000,
    peak_population_year: null 
-  },
+   },
    {
-   rank: 32, 
+   alt_rank: 32, 
    city: "Milwaukee",
    state: "Wisconsin",
    region: "Midwest",
    country: "United States",
-   alt_population: 1200000
-   current_population: 555000
-   peak_population: 742000
+   alt_population: 1200000,
+   current_population: 555000,
+   current_population_year: 2026,
+   peak_population: 742000,
    peak_population_year: 1960 
-  },
+   },
    {
-   rank: 33, 
+   alt_rank: 33, 
    city: "Las Vegas",
    state: "Nevada",
    region: "West",
    country: "United States",
-   alt_population: 1180000
-   current_population: 690000
-   peak_population: 690000
+   alt_population: 1180000,
+   current_population: 690000,
+   current_population_year: 2026,
+   peak_population: 690000,
    peak_population_year: null
-  },
-  {
-   rank: 34, 
+   },
+   {
+   alt_rank: 34, 
    city: "Louisville",
    state: "Kentucky",
    region: "Southeast",
    country: "United States",
-   alt_population: 1168000
-   current_population: 650000
-   peak_population: 650000
+   alt_population: 1168000,
+   current_population: 650000,
+   current_population_year: 2026,
+   peak_population: 650000,
    peak_population_year: null 
-  },
+   },
    {
-   rank: 35,
+   alt_rank: 35,
    city: "Minneapolis",
    state: "Minnesota",
    region: "Midwest",
    country: "United States",
-   alt_population: 1137000
-   current_population: 435000
-   peak_population: 530000
+   alt_population: 1137000,
+   current_population: 435000,
+   current_population_year: 2026,
+   peak_population: 530000,
    peak_population_year: 1950
-  },
+   },
    {
-   rank: 36, 
+   alt_rank: 36, 
    city: "Denver",
    state: "Colorado",
    region: "West",
    country: "United States",
-   alt_population: 1120000
-   current_population: 750000
-   peak_population: 750000
+   alt_population: 1120000,
+   current_population: 750000,
+   current_population_year: 2026,
+   peak_population: 750000,
    peak_population_year: null
-  },
+   },
    {
-   rank: 37, 
+   alt_rank: 37, 
    city: "Buffalo",
    state: "New York",
    region: "Northeast",
    country: "United States",
-   alt_population: 1106000
-   current_population: 280000
-   peak_population: 580000
+   alt_population: 1106000,
+   current_population: 280000,
+   current_population_year: 2026,
+   peak_population: 580000,
    peak_population_year: 1950
-  },
-    {
-   rank: 38, 
+   },
+   {
+   alt_rank: 38, 
    city: "Portland",
    state: "Oregon",
    region: "West",
    country: "United States",
-   alt_population: 1085000
-   current_population: 630000
-   peak_population: 660000
+   alt_population: 1085000,
+   current_population: 630000,
+   current_population_year: 2026,
+   peak_population: 660000,
    peak_population_year: 2020
-  },
+   },
    {
-   rank: 39, 
+   alt_rank: 39, 
    city: "Kansas City",
    state: "Missouri",
    region: "Midwest",
    country: "United States",
-   alt_population: 1071000
-   current_population: 530000
-   peak_population: 530000
+   alt_population: 1071000,
+   current_population: 530000,
+   current_population_year: 2026,
+   peak_population: 530000,
    peak_population_year: null
-  },
+   },
    {
-   rank: 40,
+   alt_rank: 40,
    city: "Oklahoma City",
    state: "Oklahoma",
    region: "Southwest",
    country: "United States",
-   alt_population: 1064000
-   current_population: 730000
-   peak_population: 730000
+   alt_population: 1064000,
+   current_population: 730000,
+   current_population_year: 2026,
+   peak_population: 730000,
    peak_population_year: null
    },
    {
-   rank: 41, 
+   alt_rank: 41, 
    city: "Tampa",
    state: "Florida",
    region: "Southeast",
    country: "United States",
-   alt_population: 1058000
-   current_population: 420000
-   peak_population: 420000
+   alt_population: 1058000,
+   current_population: 420000,
+   current_population_year: 2026,
+   peak_population: 420000,
    peak_population_year: null
-  },
+   },
    {
-   rank 42,
+   alt_rank 42,
    city: "Honolulu",
    state: "Hawaii",
    region: "West",
    country: "United States",
-   alt_population: 1022000
-   current_population: 340000
-   peak_population: 380000
+   alt_population: 1022000,
+   current_population: 340000,
+   current_population_year: 2026,
+   peak_population: 380000,
    peak_population_year: null
    },
    {
-   rank 43,
+   alt_rank 43,
    city: "Virginia Beach",
    state: "Virginia",
    region: "Southeast",
    country: "United States",
-   alt_population: 1020000
-   current_population: 450000
-   peak_population: 460000
+   alt_population: 1020000,
+   current_population: 450000,
+   current_population_year: 2026,
+   peak_population: 460000,
    peak_population_year: 1970
    },
    {
-   rank 44,
+   alt_rank 44,
    city: "Des Moines",
    state: "Iowa",
    region: "Midwest",
    country: "United States",
-   alt_population: 1017000
-   current_population: 210000
-   peak_population: 220000
+   alt_population: 1017000,
+   current_population: 210000,
+   current_population_year: 2026,
+   peak_population: 220000,
    peak_population_year: 2017
    },
-    {
-   rank 45,
+   {
+   alt_rank 45,
    city: "Cincinnati",
    state: "Ohio",
    region: "Midwest",
    country: "United States",
-   alt_population: 1008000
-   current_population: 320000
-   peak_population: 510000
+   alt_population: 1008000,
+   current_population: 320000,
+   current_population_year: 2026,
+   peak_population: 510000,
    peak_population_year: 1950
    },
    {
-   rank 46,
+   alt_rank 46,
    city: "Long Beach",
    state: "California",
    region: "West",
    country: "United States",
-   alt_population: 966000
-   current_population: 450000
-   peak_population: 470000
+   alt_population: 966000,
+   current_population: 450000,
+   current_population_year: 2026,
+   peak_population: 470000,
    peak_population_year: 2015
    },
-    {
-   rank 47,
+   {
+   alt_rank 47,
    city: "Oakland",
    state: "California",
    region: "West",
    country: United States,
-   alt_population: 941000
-   current_population: 450000
-   peak_population: 450000
+   alt_population: 941000,
+   current_population: 450000,
+   current_population_year: 2026,
+   peak_population: 450000,
    peak_population_year: null
    },
    {
-   rank 48,
+   alt_rank 48,
    city: "El Paso",
    state: "Texas",
    region: "Southwest",
    country: "United States",
-   alt_population: 940000
-   current_population: 690000
-   peak_population: 690000
+   alt_population: 940000,
+   current_population: 690000,
+   current_population_year: 2026,
+   peak_population: 690000,
    peak_population_year: null
    },
-    {
-   rank 49,
+   {
+   alt_rank 49,
    city: "New Haven", 
    state: "Connecticut",
    region: "Northeast",
    country: "United States",
-   alt_population: 938000
-   current_population: 150000
-   peak_population: 170000
+   alt_population: 938000,
+   current_population: 150000,
+   current_population_year: 2026,
+   peak_population: 170000,
    peak_population_year: 1950
    },
    {
-   rank 50,
+   alt_rank 50,
    city: "Tulsa",
    state: "Oklahoma",
    region: "Southwest",
    country: "United States",
-   alt_population: 931000
-   current_population: 420000
-   peak_population: 420000
+   alt_population: 931000,
+   current_population: 420000,
+   current_population_year: 2026,
+   peak_population: 420000,
    peak_population_year: null
    },
    {
-   rank 51,
+   alt_rank 51,
    city: "Albuquerque",
    state: "New Mexico",
    region: "Southwest",
    country: "United States",
-   alt_population: 910000
-   current_population: 550000
-   peak_population: 570000
+   alt_population: 910000,
+   current_population: 550000,
+   current_population_year: 2026,
+   current_population_year: 2026,
+   peak_population: 570000,
    peak_population_year: null
    },
    {
-   rank 52,
+   alt_rank 52,
    city: "Birmingham",
    state: "Alabama",
    region: "Southeast",
    country: "United States",
-   alt_population: 900000
-   current_population: 200000
-   peak_population: 350000
+   alt_population: 900000,
+   current_population: 200000,
+   current_population_year: 2026,
+   peak_population: 350000,
    peak_population_year: 1960
    },
    {
-   rank 53,
+   alt_rank 53,
    city: "Wichita",
    state: "Kansas",
    region: "Midwest",
    country: "United States",
-   alt_population: 898000
-   current_population: 410000
-   peak_population: 410000
+   alt_population: 898000,
+   current_population: 410000,
+   current_population_year: 2026,
+   peak_population: 410000,
    peak_population_year: null
    },
    {
-   rank 54,
+   alt_rank 54,
    city: "Rochester",
    state: "New York",
    region: "Northeast",
    country: "United States",
-   alt_population: 896000
-   current_population: 210000
-   peak_population: 340000
+   alt_population: 896000,
+   current_population: 210000,
+   current_population_year: 2026,
+   peak_population: 340000,
    peak_population_year: 1950 
    },
    {
-   rank 55,
+   alt_rank 55,
    city: "Jersey City",
    state: "New Jersey",
    region: "Northeast",
    country: "United States",
-   alt_population: 855000
-   current_population: 310000
-   peak_population: 320000
+   alt_population: 855000,
+   current_population: 310000,
+   current_population_year: 2026,
+   peak_population: 320000,
    peak_population_year: 1930
    },
    {
-   rank 56,
+   alt_rank 56,
    city: "Fresno",
    state: "California",
    region: "West",
    country: "United States",
-   alt_population: 855000
-   current_population: 560000
-   peak_population: 560000
+   alt_population: 855000,
+   current_population: 560000,
+   current_population_year: 2026,
+   peak_population: 560000,
    peak_population_year: null
    },
    {
-   rank 57,
+   alt_rank 57,
    city: "Raleigh",
    state: "North Carolina",
    region: "Southeast",
    country: "United States",
-   alt_population: 844000
-   current_population: 520000
-   peak_population: 520000
+   alt_population: 844000,
+   current_population: 520000,
+   current_population_year: 2026,
+   peak_population: 520000,
    peak_population_year: null
    },
    {
-   rank 58,
+   alt_rank 58,
    city: "Omaha",
    state: "Nebraska",
    region: "Midwest",
    country: "United States",
-   alt_population: 842000
-   current_population: 490000
-   peak_population: 500000
+   alt_population: 842000,
+   current_population: 490000,
+   current_population_year: 2026,
+   peak_population: 500000,
+   peak_population_year: null,
    },
    {
-   rank 59,
+   alt_rank 59,
    city: "Tucson",
    state: "Arizona",
    region: "Southwest",
    country: "United States",
-   alt_population: 837000
-   current_population: 550000
-   peak_population: 560000
+   alt_population: 837000,
+   current_population: 550000,
+   current_population_year: 2026,
+   peak_population: 560000,
    peak_population_year: null
    },
    {
-   rank 60,
+   alt_rank 60,
    city: "Sacramento",
    state: "California",
    region: "West",
    country: "United States",
-   alt_population: 816000
-   current_population: 540000
-   peak_population: 540000
+   alt_population: 816000,
+   current_population: 540000,
+   current_population_year: 2026,
+   peak_population: 540000,
    peak_population_year: null
    },
    {
-   rank 61,
+   alt_rank 61,
    city: "Toledo",
    state: "Ohio",
    region: "Midwest",
    country: "United States",
-   alt_population: 807000
-   current_population: 270000
-   peak_population: 390000
+   alt_population: 807000,
+   current_population: 270000,
+   current_population_year: 2026,
+   peak_population: 390000,
    peak_population_year: 1970
    },
    {
-   rank 62,
+   alt_rank 62,
    city: "Norfolk",
    state: "Virginia",
    region: "Southeast",
    country: "United States",
-   alt_population: 785000
-   current_population: 230000
-   peak_population: 310000
+   alt_population: 785000,
+   current_population: 230000,
+   current_population_year: 2026,
+   peak_population: 310000,
    peak_population_year: 1970
    },
    {
-   rank 63,
+   alt_rank 63,
    city: "Hartford",
    state: "Connecticut",
    region: "Northeast",
    country: "United States",
-   alt_population: 784000
-   current_population: 130000
-   peak_population: 180000
+   alt_population: 784000,
+   current_population: 130000,
+   current_population_year: 2026,
+   peak_population: 180000,
    peak_population_year: 1950
    },
    {
-   rank 64,
+   alt_rank 64,
    city: "Salt Lake City",
    state: "Utah",
    region: "West",
    country: "United States",
-   alt_population: 784000
-   current_population: 230000
-   peak_population: 230000
+   alt_population: 784000,
+   current_population: 230000,
+   current_population_year: 2026,
+   peak_population: 230000,
    peak_population_year: null
    },
    {
-   rank 65,
+   alt_rank 65,
    city: "St. Paul",
    state: "Minnesota",
    region: "Midwest",
    country: "United States",
-   alt_population: 781000
-   current_population: 310000
-   peak_population: 320000
+   alt_population: 781000,
+   current_population: 310000,
+   current_population_year: 2026,
+   peak_population: 320000,
    peak_population_year: 1960
    },
    {
-   rank: 66,
+   alt_rank: 66,
    city: "Colorado Springs",
    state: "Colorado",
    region: "West",
    country: "United States",
-   alt_populaton: 771000
-   current_population: 500000
-   peak_population: 500000
+   alt_populaton: 771000,
+   current_population: 500000,
+   current_population_year: 2026,
+   peak_population: 500000,
    peak_population_year: null
    },
    {
-   rank 67,
+   alt_rank 67,
    city: "Anchorage",
    state: "Alaska",
    region: "West",
    country: "United States",
-   alt_population: 762000
-   current_population: 290000
-   peak_population: 310000
+   alt_population: 762000,
+   current_population: 290000,
+   current_population_year: 2026,
+   peak_population: 310000,
    peak_population_year: 2014
    },
    {
-   rank 68,
+   alt_rank 68,
    city: "Providence",
    state: "Rhode Island",
    region: "Northeast",
    country: "United States",
-   alt_population: 760000
-   current_population: 200000
-   peak_population: 260000
+   alt_population: 760000,
+   current_population: 200000,
+   current_population_year: 2026,
+   peak_population: 260000,
    peak_population_year: 1940
    },
    {
-   rank 69,
+   alt_rank 69,
    city: "Little Rock",
    state: "Arkansas",
    region: "Southeast",
    country: "United States",
-   alt_population: 750000
-   current_population: 210000
-   peak_population: 210000
+   alt_population: 750000,
+   current_population: 210000,
+   current_population_year: 2026,
+   peak_population: 210000,
    peak_population_year: null
    },
    {
-   rank 70,
+   alt_rank 70,
    city: "Syracuse",
    state: "New York",
    region: "Northeast",
    country: "United States",
-   alt_population: 716000
-   current_population: 150000
-   peak_population: 230000
+   alt_population: 716000,
+   current_population: 150000,
+   current_population_year: 2026,
+   peak_population: 230000,
    peak_population_year: 1950
    },
    {
-   rank 71,
+   alt_rank 71,
    city: "Boise",
    state: "Idaho",
    region: "West",
    country: "United States",
-   alt_population: 681000
-   current_population: 240000
-   peak_population: 240000
+   alt_population: 681000,
+   current_population: 240000,
+   current_population_year: 2026,
+   peak_population: 240000,
    peak_population_year: null
    },
    {
-   rank 72,
+   alt_rank 72,
    city: "Santa Ana",
    state: "California",
    region: "West",
    country: "United States",
-   alt_population: 676000
-   current_population: 320000
-   peak_population: 340000
+   alt_population: 676000,
+   current_population: 320000,
+   current_population_year: 2026,
+   peak_population: 340000,
    peak_population_year: 2009
    },
    {
-   rank 73,
+   alt_rank 73,
    city: "Charleston",
    state: "South Carolina",
    region: "Southeast",
    country: "United States",
-   alt_population: 672000
-   current_population: 170000
-   peak_population: 170000
+   alt_population: 672000,
+   current_population: 170000,
+   current_population_year: 2026,
+   peak_population: 170000,
    peak_population_year: null
    },
    {
-   rank: 74,
+   alt_rank: 74,
    city: "Jackson",
    state: "Mississippi",
    region: "Southeast",
    country: "United States",
-   alt_population: 670000
-   current_population: 140000
-   peak_population: 210000
+   alt_population: 670000,
+   current_population: 140000,
+   current_population_year: 2026,
+   peak_population: 210000,
    peak_population_year: 1980
    },
    {
-   rank 75,
+   alt_rank 75,
    city: "Portland",
    state: "Maine",
    region: "Northeast",
    country: "United States",
-   alt_population: 665000
-   current_population: 70000
-   peak_population: 80000
+   alt_population: 665000,
+   current_population: 70000,
+   current_population_year: 2026,
+   peak_population: 80000,
    peak_population_year: 1950
    },
    {
-   rank 76,
+   alt_rank 76,
    city: "Spokane",
    state: "Washington",
    region: "West",
    country: "United States",
-   alt_population: 665000
-   current_population: 240000
-   peak_population: 240000
+   alt_population: 665000,
+   current_population: 240000,
+   current_population_year: 2026,
+   peak_population: 240000,
    peak_population_year: null
    },
    {
-   rank 77,
+   alt_rank 77,
    city: "Akron",
    state: "Ohio",
    region: "Midwest",
    country: "United States",
-   alt_population: 658000
-   current_population: 190000
-   peak_population: 300000
+   alt_population: 658000,
+   current_population: 190000,
+   current_population_year: 2026,
+   peak_population: 300000,
    peak_population_year: 1960
    },
    {
-   rank 78,
+   alt_rank 78,
    city: "Worcester",
    state: "Massachusetts",
    region: "Northeast",
    country: "United States",
-   alt_population: 655000
-   current_population: 220000
-   peak_population: 220000
+   alt_population: 655000,
+   current_population: 220000,
+   current_population_year: 2026,
+   peak_population: 220000,
    peak_population_year: 2020
    },
    {
-   rank 79,
+   alt_rank 79,
    city: "Dayton",
    state: "Ohio",
    region: "Midwest",
    country: "United States",
-   alt_population: 654000
-   current_population: 140000
-   peak_population: 270000
+   alt_population: 654000,
+   current_population: 140000,
+   current_population_year: 2026,
+   peak_population: 270000,
    peak_population_year: 1960
    },
    {
-   rank 80,
+   alt_rank 80,
    city: "Arlington",
    state: "Texas",
    region: "Southwest",
    country: "United States",
-   alt_population: 659000
-   current_population: 410000
-   peak_population: 410000
+   alt_population: 659000,
+   current_population: 410000,
+   current_population_year: 2026,
+   peak_population: 410000,
    peak_population_year: null
    },
    {
-   rank 81,
+   alt_rank 81,
    city: "Anaheim",
    state: "California",
    region: "West",
    country: "United States",
-   alt_population: 637000
-   current_population: 340000
-   peak_population: 360000
+   alt_population: 637000,
+   current_population: 340000,
+   current_population_year: 2026,
+   peak_population: 360000,
    peak_population_year: 2019
    },
    {
-   rank 82,
+   alt_rank 82,
    city: "Madison",
    state: "Wisconsin",
    region: "Midwest",
    country: "United States",
-   alt_population: 632000
-   current_population: 290000
-   peak_population: 290000
+   alt_population: 632000,
+   current_population: 290000,
+   current_population_year: 2026,
+   peak_population: 290000,
    peak_population_year: null
    },
    {
-   rank 83,
+   alt_rank 83,
    city: "Sioux Falls",
    state: "South Dakota",
    region: "Midwest",
    country: "United States",
-   alt_population: 602000
-   current_population: 220000
-   peak_population: 220000
+   alt_population: 602000,
+   current_population: 220000,
+   current_population_year: 2026,
+   peak_population: 220000,
    peak_population_year: null
    },
    {
-   rank 84,
+   alt_rank 84,
    city: "Richmond",
    state: "Virginia",
    region: "Southeast",
    country: "United States",
-   alt_population: 601000
-   current_population: 240000
-   peak_population: 250000
+   alt_population: 601000,
+   current_population: 240000,
+   current_population_year: 2026,
+   peak_population: 250000,
    peak_population_year: 1970
    },
    {
-   rank 85,
+   alt_rank 85,
    city: "Grand Rapids",
    state: "Michigan",
    region: "Midwest",
    country: "United States",
-   alt_population: 596000
-   current_population: 210000
-   peak_population: 210000
+   alt_population: 596000,
+   current_population: 210000,
+   current_population_year: 2026,
+   peak_population: 210000,
    peak_population_year: 2019
    },
    {
-   rank 86,
+   alt_rank 86,
    city: "Charleston",
    state: "West Virginia",
    region: "Southeast",
    country: "United States",
-   alt_population: 595000
-   current_population: 50000
-   peak_population: 90000
+   alt_population: 595000,
+   current_population: 50000,
+   current_population_year: 2026,
+   peak_population: 90000,
    peak_population_year: 1960
    },
    {
-   rank 87,
+   alt_rank 87,
    city: "Aurora",
    state: "Colorado",
    region: "West",
    country: "United States",
-   alt_population: 588000
-   current_population: 420000
-   peak_population: 420000
+   alt_population: 588000,
+   current_population: 420000,
+   current_population_year: 2026,
+   peak_population: 420000,
    peak_population_year: null
    },
    {
-   rank 88,
+   alt_rank 88,
    city: "Lexington",
    state: "Kentucky",
    region: "Southeast",
    country: "United States",
-   alt_population: 582000
-   current_population: 340000
-   peak_population: 340000
+   alt_population: 582000,
+   current_population: 340000,
+   current_population_year: 2026,
+   peak_population: 340000,
    peak_population_year: null
    },
    {
-   rank 89,
+   alt_rank 89,
    city: "Orlando",
    state: "Florida",
    region: "Southeast",
    country: "United States",
-   alt_population: 574000
-   current_population: 350000
-   peak_population: 350000
+   alt_population: 574000,
+   current_population: 350000,
+   current_population_year: 2026,
+   peak_population: 350000,
    peak_population_year: null
    },
    {
-   rank 90,
+   alt_rank 90,
    city: "Mobile,
    state: "Alabama",
    region: "Southeast",
    country: "United States",
-   alt_population: 532000
-   current_population: 200000
-   peak_population: 210000
+   alt_population: 532000,
+   current_population: 200000,
+   current_population_year: 2026,
+   peak_population: 210000,
    peak_population_year: 1960
    },
    {
-   rank 91,
+   alt_rank 91,
    city: "Mesa",
    state: "Arizona",
    region: "Southwest",
    country: "United States",
-   alt_population: 572000
-   current_population: 520000
-   peak_population: 520000
+   alt_population: 572000,
+   current_population: 520000,
+   current_population_year: 2026,
+   peak_population: 520000,
    peak_population_year: 2019
    },
    {
-   rank 92,
+   alt_rank 92,
    city: "Billings",
    state: "Montana",
    region: "West",
    country: "United States",
-   alt_population: 568000
-   current_population: 130000
-   peak_population: 130000
+   alt_population: 568000,
+   current_population: 130000,
+   current_population_year: 2026,
+   peak_population: 130000,
    peak_population_year: null
    },
    {
-   rank 93,
+   alt_rank 93,
    city: "Flint",
    state: "Michigan",
    region: "Midwest",
    country: "United States",
-   alt_population: 567000
-   current_population: 80000
-   peak_population: 200000
+   alt_population: 567000,
+   current_population: 80000,
+   current_population_year: 2026,
+   peak_population: 200000,
    peak_population_year: 1960
    },
    {
-   rank 94,
+   alt_rank 94,
    city: "Corpus Christi",
    state: "Texas",
    region: "Southwest",
    country: "United States",
-   alt_population: 551000
-   current_population: 330000
-   peak_population: 330000
+   alt_population: 551000,
+   current_population: 330000,
+   current_population_year: 2026,
+   peak_population: 330000,
    peak_population_year: null
    },
    {
-   rank 95,
+   alt_rank 95,
    city: "Riverside",
    state: "California",
    region: "West",
    country: "United States",
-   alt_population: 542000
-   current_population: 330000
-   peak_population: 330000
+   alt_population: 542000,
+   current_population: 330000,
+   current_population_year: 2026,
+   peak_population: 330000,
    peak_population_year: null
    },
    {
-   rank 96,
+   alt_rank 96,
    city: "Savannah",
    state: "Georgia",
    region: "Southeast",
    country: "United States",
-   alt_population: 542000
-   current_population: 150000
-   peak_population: 160000
+   alt_population: 542000,
+   current_population: 150000,
+   current_population_year: 2026,
+   peak_population: 160000,
    peak_population_year: 1960
    },
    {
-   rank 97,
+   alt_rank 97,
    city: "Bakersfield",
    state: "California",
    region: "West",
    county: "United States",
-   alt_population: 539000
-   current_population: 430000
-   peak_population: 430000
+   alt_population: 539000,
+   current_population: 430000,
+   current_population_year: 2026,
+   peak_population: 430000,
    peak_population_year: null
    },
    {
-   rank 98,
+   alt_rank 98,
    city: "Reno",
    state: "Nevada",
    region: "West",
    country: "United States",
-   alt_population: 535000
-   current_population: 290000
-   peak_population: 290000
+   alt_population: 535000,
+   current_population: 290000,
+   current_population_year: 2026,
+   peak_population: 290000,
    peak_population_year: null
    },
    {
-   rank 99,
+   alt_rank 99,
    city: "Stockton",
    state: "California",
    region: "West",
    country: "United States",
-   alt_population: 534000
-   current_population: 330000
-   peak_population: 330000
+   alt_population: 534000,
+   current_population: 330000,
+   current_population_year: 2026,
+   peak_population: 330000,
    peak_population_year: null
    },
    {
-   rank 100,
+   alt_rank 100,
    city: "Henderson",
    state: "Nevada",
    region: "West",
    country: "United States",
-   alt_population: 501000
-   current_population: 370000
-   peak_population: 370000
+   alt_population: 501000,
+   current_population: 370000,
+   current_population_year: 2026,
+   peak_population: 370000,
    peak_population_year: null
    },
    
