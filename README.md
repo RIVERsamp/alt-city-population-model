@@ -232,10 +232,10 @@ const cities = [
    state: "Massachusetts",
    region: "Northeast",
    country: "United States", 
-   alt_population: 1445000,
-   current_population: 680000,
+   alt_population: 1_445_000,
+   current_population: 680_000,
    current_population_year: 2026,
-   peak_population: 810000,
+   peak_population: 810_000,
    peak_population_year: 1950
   },
    {
@@ -244,10 +244,10 @@ const cities = [
    state: "Washington",
    region: "West",
    country: "United States",
-   alt_population: 1402000,
-   current_population: 800000,
+   alt_population: 1_402_000,
+   current_population: 800_000,
    current_population_year: 2026,
-   peak_population: 800000,
+   peak_population: 800_000,
    peak_population_year: null
   },
    {
@@ -256,10 +256,10 @@ const cities = [
    state: "Tennessee",
    region: "Southeast",
    country: "United States",
-   alt_population: 1301000,
-   current_population: 610000,
+   alt_population: 1_301_000,
+   current_population: 610_000,
    current_population_year: 2026,
-   peak_population: 689000,
+   peak_population: 689_000,
    peak_population_year: 2000
   },
    {
@@ -268,10 +268,10 @@ const cities = [
    state: "New Jersey",
    region: "Northeast",
    country: "United States",
-   alt_population: 1275000,
-   current_population: 330000,
+   alt_population: 1_275_000,
+   current_population: 330_000,
    current_population_year: 2026,
-   peak_population: 450000,
+   peak_population: 450_000,
    peak_population_year: 1950
   },
    {
@@ -280,10 +280,10 @@ const cities = [
    state: "Georgia",
    region: "Southeast",
    country: "United States",
-   alt_population: 1267000,
-   current_population: 540000,
+   alt_population: 1_267_000,
+   current_population: 540_000,
    current_population_year: 2026,
-   peak_population: 540000,
+   peak_population: 540_000,
    peak_population_year: null
   },
    {
@@ -292,10 +292,10 @@ const cities = [
    state: "Texas",
    region: "Southwest",
    country: "United States",
-   alt_population: 1264000,
-   current_population: 1050000,
+   alt_population: 1_264_000,
+   current_population: 1_050_000,
    current_population_year: 2026,
-   peak_population: 1050000,
+   peak_population: 1_050_000,
    peak_population_year: null
   },
    {
@@ -304,10 +304,10 @@ const cities = [
    state: "Tennessee",
    region: "Southeast",
    country: "United States",
-   alt_population: 1260000,
-   current_population: 730000,
+   alt_population: 1_260_000,
+   current_population: 730_000,
    current_population_year: 2026,
-   peak_population: 730000,
+   peak_population: 730_000,
    peak_population_year: null 
    },
    {
@@ -316,10 +316,10 @@ const cities = [
    state: "Ohio",
    region: "Midwest",
    country: "United States",
-   alt_population: 1250000,
-   current_population: 950000,
+   alt_population: 1_250_000,
+   current_population: 950_000,
    current_population_year: 2026,
-   peak_population: 950000,
+   peak_population: 950_000,
    peak_population_year: null 
    },
    {
@@ -328,10 +328,10 @@ const cities = [
    state: "Pennsylvania", 
    region: "Northeast",
    country: "United States",
-   alt_population: 1246000,
-   current_population: 310000,
+   alt_population: 1_246_000,
+   current_population: 310_000,
    current_population_year: 2026,
-   peak_population: 680000,
+   peak_population: 680_000,
    peak_population_year: 1950 
    },
    {
@@ -340,10 +340,10 @@ const cities = [
    state: "California",
    region: "West",
    country: "United States",
-   alt_population: 1225000,
-   current_population: 980000,
+   alt_population: 1_225_000,
+   current_population: 980_000,
    current_population_year: 2026,
-   peak_population: 1030000,
+   peak_population: 1_030_000,
    peak_population_year: 2017 
    },
    {
@@ -352,10 +352,10 @@ const cities = [
    state: "Louisiana",
    region: "Southeast",
    country: "United States",
-   alt_population: 1215000,
-   current_population: 355000,
+   alt_population: 1_215_000,
+   current_population: 355_000,
    current_population_year: 2026,
-   peak_population: 630000,
+   peak_population: 630_000,
    peak_population_year: 1960 
    },
    {
@@ -364,10 +364,10 @@ const cities = [
    state: "Texas",
    region: "Southwest",
    country: "United States",
-   alt_population: 1207000,
-   current_population: 1020000,
+   alt_population: 1_207_000,
+   current_population: 1_020_000,
    current_population_year: 2026,
-   peak_population: 1020000,
+   peak_population: 1_020_000,
    peak_population_year: null
    },
    {
@@ -376,10 +376,10 @@ const cities = [
    state: "Indiana",
    region: "Midwest",
    country: "United States",
-   alt_population: 1204000,
-   current_population: 910000,
+   alt_population: 1_204_000,
+   current_population: 910_000,
    current_population_year: 2026,
-   peak_population: 910000,
+   peak_population: 910_000,
    peak_population_year: null 
    },
    {
@@ -388,10 +388,10 @@ const cities = [
    state: "Wisconsin",
    region: "Midwest",
    country: "United States",
-   alt_population: 1200000,
-   current_population: 555000,
+   alt_population: 1_200_000,
+   current_population: 555_000,
    current_population_year: 2026,
-   peak_population: 742000,
+   peak_population: 742_000,
    peak_population_year: 1960 
    },
    {
@@ -400,10 +400,10 @@ const cities = [
    state: "Nevada",
    region: "West",
    country: "United States",
-   alt_population: 1180000,
-   current_population: 690000,
+   alt_population: 1_180_000,
+   current_population: 690_000,
    current_population_year: 2026,
-   peak_population: 690000,
+   peak_population: 690_000,
    peak_population_year: null
    },
    {
@@ -412,10 +412,10 @@ const cities = [
    state: "Kentucky",
    region: "Southeast",
    country: "United States",
-   alt_population: 1168000,
-   current_population: 650000,
+   alt_population: 1_168_000,
+   current_population: 650_000,
    current_population_year: 2026,
-   peak_population: 650000,
+   peak_population: 650_000,
    peak_population_year: null 
    },
    {
@@ -424,10 +424,10 @@ const cities = [
    state: "Minnesota",
    region: "Midwest",
    country: "United States",
-   alt_population: 1137000,
-   current_population: 435000,
+   alt_population: 1_137_000,
+   current_population: 435_000,
    current_population_year: 2026,
-   peak_population: 530000,
+   peak_population: 530_000,
    peak_population_year: 1950
    },
    {
@@ -436,10 +436,10 @@ const cities = [
    state: "Colorado",
    region: "West",
    country: "United States",
-   alt_population: 1120000,
-   current_population: 750000,
+   alt_population: 1_120_000,
+   current_population: 750_000,
    current_population_year: 2026,
-   peak_population: 750000,
+   peak_population: 750_000,
    peak_population_year: null
    },
    {
@@ -448,10 +448,10 @@ const cities = [
    state: "New York",
    region: "Northeast",
    country: "United States",
-   alt_population: 1106000,
-   current_population: 280000,
+   alt_population: 1_106_000,
+   current_population: 280_000,
    current_population_year: 2026,
-   peak_population: 580000,
+   peak_population: 580_000,
    peak_population_year: 1950
    },
    {
@@ -460,10 +460,10 @@ const cities = [
    state: "Oregon",
    region: "West",
    country: "United States",
-   alt_population: 1085000,
-   current_population: 630000,
+   alt_population: 1_085_000,
+   current_population: 630_000,
    current_population_year: 2026,
-   peak_population: 660000,
+   peak_population: 660_000,
    peak_population_year: 2020
    },
    {
@@ -472,10 +472,10 @@ const cities = [
    state: "Missouri",
    region: "Midwest",
    country: "United States",
-   alt_population: 1071000,
-   current_population: 530000,
+   alt_population: 1_071_000,
+   current_population: 530_000,
    current_population_year: 2026,
-   peak_population: 530000,
+   peak_population: 530_000,
    peak_population_year: null
    },
    {
@@ -484,10 +484,10 @@ const cities = [
    state: "Oklahoma",
    region: "Southwest",
    country: "United States",
-   alt_population: 1064000,
-   current_population: 730000,
+   alt_population: 1_064_000,
+   current_population: 730_000,
    current_population_year: 2026,
-   peak_population: 730000,
+   peak_population: 730_000,
    peak_population_year: null
    },
    {
@@ -496,10 +496,10 @@ const cities = [
    state: "Florida",
    region: "Southeast",
    country: "United States",
-   alt_population: 1058000,
-   current_population: 420000,
+   alt_population: 1_058_000,
+   current_population: 420_000,
    current_population_year: 2026,
-   peak_population: 420000,
+   peak_population: 420_000,
    peak_population_year: null
    },
    {
@@ -508,10 +508,10 @@ const cities = [
    state: "Hawaii",
    region: "West",
    country: "United States",
-   alt_population: 1022000,
-   current_population: 340000,
+   alt_population: 1_022_000,
+   current_population: 340_000,
    current_population_year: 2026,
-   peak_population: 380000,
+   peak_population: 380_000,
    peak_population_year: null
    },
    {
@@ -520,10 +520,10 @@ const cities = [
    state: "Virginia",
    region: "Southeast",
    country: "United States",
-   alt_population: 1020000,
-   current_population: 450000,
+   alt_population: 1_020_000,
+   current_population: 450_000,
    current_population_year: 2026,
-   peak_population: 460000,
+   peak_population: 460_000,
    peak_population_year: 1970
    },
    {
@@ -532,10 +532,10 @@ const cities = [
    state: "Iowa",
    region: "Midwest",
    country: "United States",
-   alt_population: 1017000,
-   current_population: 210000,
+   alt_population: 1_017_000,
+   current_population: 210_000,
    current_population_year: 2026,
-   peak_population: 220000,
+   peak_population: 220_000,
    peak_population_year: 2017
    },
    {
