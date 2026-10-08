@@ -16,10 +16,12 @@ function displayCities(cityData) {
     cityCard.innerHTML = 
       <h2>${city.alt_rank}. ${city.city}</h2>
       <p>${city.state} - ${city.region}</p>    
-      <p><strong>Alternative population:</strong>
+      <p>
+        <strong>Alternative population:</strong>
        ${formatPopulation(city.alt_population)}
-  </p>
-  <p><strong>Current population:</strong>
+    </p>
+    <p>
+      <strong>Current population:</strong>
     ${formatPopulation(city.current_population)}
   </p>
   ';
