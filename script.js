@@ -13,7 +13,7 @@ function displayCities(cityData) {
     const cityCard = document.createElement("article");
     cityCard.classList.add("city-card");
 
-    cityCard.innerHTML = 
+    cityCard.innerHTML = '
       <h2>${city.alt_rank}. ${city.city}</h2>
       <p>${city.state} - ${city.region}</p>    
       <p>
